@@ -4,577 +4,1102 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TechIcons/Acoustics
+CityStateIcons/Cultured
   rotate: false
-  xy: 4, 868
+  xy: 112, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Advanced Ballistics
+CityStateIcons/Maritime
   rotate: false
-  xy: 4, 760
+  xy: 838, 596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Agriculture
+CityStateIcons/Mercantile
   rotate: false
-  xy: 112, 868
+  xy: 1054, 596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Animal Husbandry
+CityStateIcons/Militaristic
   rotate: false
-  xy: 4, 652
+  xy: 1162, 596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Archaeology
+CityStateIcons/Religious
   rotate: false
-  xy: 112, 760
+  xy: 436, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Archery
+EmojiIcons/Culture
   rotate: false
-  xy: 220, 868
+  xy: 1408, 214
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Faith
+  rotate: false
+  xy: 1516, 322
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Food
+  rotate: false
+  xy: 1624, 430
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Gold
+  rotate: false
+  xy: 1732, 538
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Happiness
+  rotate: false
+  xy: 1300, 106
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Production
+  rotate: false
+  xy: 1906, 538
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Science
+  rotate: false
+  xy: 1466, 214
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Turn
+  rotate: false
+  xy: 1682, 430
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Academy
+  rotate: false
+  xy: 4, 486
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Ancient ruins
+  rotate: false
+  xy: 4, 270
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Barbarian encampment
+  rotate: false
+  xy: 799, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Camp
+  rotate: false
+  xy: 4, 54
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Citadel
+  rotate: false
+  xy: 1123, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/City center
+  rotate: false
+  xy: 1447, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/City ruins
+  rotate: false
+  xy: 1555, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Customs house
+  rotate: false
+  xy: 475, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Farm
+  rotate: false
+  xy: 1339, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fishing Boats
+  rotate: false
+  xy: 1663, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fort
+  rotate: false
+  xy: 1879, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Holy site
+  rotate: false
+  xy: 730, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Landmark
+  rotate: false
+  xy: 1378, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Lumber mill
+  rotate: false
+  xy: 1810, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Manufactory
+  rotate: false
+  xy: 514, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mine
+  rotate: false
+  xy: 1270, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Moai
+  rotate: false
+  xy: 1378, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Offshore Platform
+  rotate: false
+  xy: 1918, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Oil well
+  rotate: false
+  xy: 220, 488
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Pasture
+  rotate: false
+  xy: 220, 272
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Plantation
+  rotate: false
+  xy: 436, 488
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Polder
+  rotate: false
+  xy: 328, 272
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Quarry
+  rotate: false
+  xy: 328, 56
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Railroad
+  rotate: false
+  xy: 760, 488
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Repair
+  rotate: false
+  xy: 760, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Road
+  rotate: false
+  xy: 760, 272
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Terrace farm
+  rotate: false
+  xy: 1300, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Trading post
+  rotate: false
+  xy: 1084, 56
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/AirSweep
+  rotate: false
+  xy: 4, 378
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Aircraft
+  rotate: false
+  xy: 1192, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/ArrowRight
+  rotate: false
+  xy: 1250, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+StatIcons/Movement
+  rotate: false
+  xy: 1250, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/BackArrow
+  rotate: false
+  xy: 1987, 970
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/Banner
+  rotate: false
+  xy: 4, 162
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Camera
+  rotate: false
+  xy: 4, 21
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+OtherIcons/Checkmark
+  rotate: false
+  xy: 1015, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Circle
+  rotate: false
+  xy: 4, 594
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+OtherIcons/Cities
+  rotate: false
+  xy: 1231, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/CityState
+  rotate: false
+  xy: 190, 614
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/Close
+  rotate: false
+  xy: 1771, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/CrosshairB
+  rotate: false
+  xy: 112, 270
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Diplomacy
+  rotate: false
+  xy: 691, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/DiplomacyW
+  rotate: false
+  xy: 799, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/DisbandUnit
+  rotate: false
+  xy: 907, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/ExclamationMark
+  rotate: false
+  xy: 1123, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Fire
+  rotate: false
+  xy: 1447, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Hexagon
+  rotate: false
+  xy: 4, 780
+  size: 277, 240
+  orig: 277, 240
+  offset: 0, 0
+  index: -1
+OtherIcons/Improvements
+  rotate: false
+  xy: 1987, 912
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/Link
+  rotate: false
+  xy: 1987, 854
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/Load
+  rotate: false
+  xy: 1486, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Loading
+  rotate: false
+  xy: 1594, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Lock
+  rotate: false
+  xy: 1702, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/MapEditor
+  rotate: false
+  xy: 622, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/MenuIcon
+  rotate: false
+  xy: 946, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Mods
+  rotate: false
+  xy: 1486, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Multiplayer
+  rotate: false
+  xy: 1594, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Nations
+  rotate: false
+  xy: 1848, 538
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/New
+  rotate: false
+  xy: 1702, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Notifications
+  rotate: false
+  xy: 1810, 596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Options
+  rotate: false
+  xy: 220, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Architecture
+OtherIcons/Pencil
   rotate: false
-  xy: 4, 544
+  xy: 220, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Astronomy
+OtherIcons/Pentagon
   rotate: false
-  xy: 112, 652
+  xy: 328, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Atomic Theory
+OtherIcons/Pillage
   rotate: false
-  xy: 220, 760
+  xy: 328, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Ballistics
+OtherIcons/Politics
   rotate: false
-  xy: 328, 868
+  xy: 436, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Banking
+OtherIcons/Present
   rotate: false
-  xy: 4, 436
+  xy: 436, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Biology
+OtherIcons/Puppet
   rotate: false
-  xy: 112, 544
+  xy: 652, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Bronze Working
+OtherIcons/Quest
   rotate: false
-  xy: 220, 652
+  xy: 436, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Calendar
+OtherIcons/Question
   rotate: false
-  xy: 328, 760
+  xy: 544, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Chemistry
+OtherIcons/Quickstart
   rotate: false
-  xy: 436, 868
+  xy: 652, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Chivalry
+OtherIcons/Remove Heresy
   rotate: false
-  xy: 4, 328
+  xy: 652, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Civil Service
+OtherIcons/Resources
   rotate: false
-  xy: 112, 436
+  xy: 544, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Combined Arms
+OtherIcons/Resume
   rotate: false
-  xy: 220, 544
+  xy: 652, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Combustion
+OtherIcons/Search
   rotate: false
-  xy: 328, 652
+  xy: 652, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Compass
+OtherIcons/SecretOptions
   rotate: false
-  xy: 436, 760
+  xy: 760, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Computers
+OtherIcons/Settings
   rotate: false
-  xy: 544, 868
+  xy: 868, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Construction
+OtherIcons/Shield
   rotate: false
-  xy: 4, 220
+  xy: 1084, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Currency
+OtherIcons/Sleep
   rotate: false
-  xy: 112, 328
+  xy: 976, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Drama and Poetry
+OtherIcons/Speaker
   rotate: false
-  xy: 220, 436
+  xy: 1084, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Dynamite
+OtherIcons/Spy
   rotate: false
-  xy: 328, 544
+  xy: 976, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Ecology
+OtherIcons/Spy_White
   rotate: false
-  xy: 436, 652
+  xy: 1084, 272
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Star
+  rotate: false
+  xy: 1192, 386
+  size: 100, 94
+  orig: 100, 94
   offset: 0, 0
   index: -1
-TechIcons/Economics
+OtherIcons/Stop
   rotate: false
-  xy: 544, 760
+  xy: 976, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Education
+OtherIcons/Swap
   rotate: false
-  xy: 652, 868
+  xy: 1192, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Electricity
+OtherIcons/Terrains
   rotate: false
-  xy: 4, 112
+  xy: 1574, 322
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+OtherIcons/Timer
+  rotate: false
+  xy: 1408, 488
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Triangle
+  rotate: false
+  xy: 289, 842
+  size: 178, 178
+  orig: 178, 178
   offset: 0, 0
   index: -1
-TechIcons/Electronics
+OtherIcons/Turn right
   rotate: false
-  xy: 112, 220
+  xy: 1300, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Engineering
+OtherIcons/Tyrannosaurus
   rotate: false
-  xy: 220, 328
+  xy: 1408, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Fertilizer
+OtherIcons/Wait
   rotate: false
-  xy: 328, 436
+  xy: 1192, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Flight
+OtherIcons/Wonders
   rotate: false
-  xy: 436, 544
+  xy: 1624, 488
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/whiteDot
+  rotate: false
+  xy: 289, 833
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
-TechIcons/Future Tech
+ResourceIcons/Aluminum
   rotate: false
-  xy: 544, 652
+  xy: 583, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Globalization
+ResourceIcons/Bananas
   rotate: false
-  xy: 652, 760
+  xy: 691, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Guilds
+ResourceIcons/Cattle
   rotate: false
-  xy: 760, 868
+  xy: 907, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Gunpowder
+ResourceIcons/Citrus
   rotate: false
-  xy: 4, 4
+  xy: 1339, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Horseback Riding
+ResourceIcons/Coal
   rotate: false
-  xy: 112, 112
+  xy: 1879, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Industrialization
+ResourceIcons/Copper
   rotate: false
-  xy: 220, 220
+  xy: 190, 672
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Iron Working
+ResourceIcons/Cotton
   rotate: false
-  xy: 328, 328
+  xy: 112, 486
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Lasers
+ResourceIcons/Crab
   rotate: false
-  xy: 436, 436
+  xy: 112, 378
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Machinery
+ResourceIcons/Deer
   rotate: false
-  xy: 544, 544
+  xy: 583, 812
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Masonry
+ResourceIcons/Dyes
   rotate: false
-  xy: 652, 652
+  xy: 1015, 812
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Mass Media
+ResourceIcons/Fish
   rotate: false
-  xy: 760, 760
+  xy: 1555, 812
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Mathematics
+ResourceIcons/Furs
   rotate: false
-  xy: 868, 868
+  xy: 298, 734
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Metal Casting
+ResourceIcons/Gems
   rotate: false
-  xy: 112, 4
+  xy: 298, 626
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Metallurgy
+ResourceIcons/Gold Ore
   rotate: false
-  xy: 220, 112
+  xy: 514, 704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Military Science
+ResourceIcons/Horses
   rotate: false
-  xy: 328, 220
+  xy: 838, 704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Mining
+ResourceIcons/Incense
   rotate: false
-  xy: 436, 328
+  xy: 946, 704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Mobile Tactics
+ResourceIcons/Iron
   rotate: false
-  xy: 544, 436
+  xy: 1054, 704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Nanotechnology
+ResourceIcons/Ivory
   rotate: false
-  xy: 652, 544
+  xy: 1162, 704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Navigation
+ResourceIcons/Jewelry
   rotate: false
-  xy: 760, 652
+  xy: 1270, 704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Nuclear Fission
+ResourceIcons/Marble
   rotate: false
-  xy: 868, 760
+  xy: 730, 596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Nuclear Fusion
+ResourceIcons/Oil
   rotate: false
-  xy: 976, 868
+  xy: 1918, 596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Optics
+ResourceIcons/Pearls
   rotate: false
-  xy: 220, 4
+  xy: 220, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Particle Physics
+ResourceIcons/Porcelain
   rotate: false
-  xy: 328, 112
+  xy: 328, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Pharmaceuticals
+ResourceIcons/Salt
   rotate: false
-  xy: 436, 220
+  xy: 868, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Philosophy
+ResourceIcons/Sheep
   rotate: false
-  xy: 544, 328
+  xy: 976, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Physics
+ResourceIcons/Silk
   rotate: false
-  xy: 652, 436
+  xy: 760, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Plastics
+ResourceIcons/Silver
   rotate: false
-  xy: 760, 544
+  xy: 868, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Pottery
+ResourceIcons/Spices
   rotate: false
-  xy: 868, 652
+  xy: 868, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Printing Press
+ResourceIcons/Stone
   rotate: false
-  xy: 976, 760
+  xy: 1300, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Radar
+ResourceIcons/Sugar
   rotate: false
-  xy: 1084, 868
+  xy: 1084, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Radio
+ResourceIcons/Truffles
   rotate: false
-  xy: 328, 4
+  xy: 1192, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Railroads
+ResourceIcons/Uranium
   rotate: false
-  xy: 436, 112
+  xy: 1516, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Refrigeration
+ResourceIcons/Whales
   rotate: false
-  xy: 544, 220
+  xy: 1300, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Replaceable Parts
+ResourceIcons/Wheat
   rotate: false
-  xy: 652, 328
+  xy: 1408, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Rifling
+ResourceIcons/Wine
   rotate: false
-  xy: 760, 436
+  xy: 1516, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Robotics
+StatIcons/Acquire
   rotate: false
-  xy: 868, 544
+  xy: 475, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Rocketry
+StatIcons/CityConnection
   rotate: false
-  xy: 976, 652
+  xy: 1663, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Sailing
+StatIcons/Culture
   rotate: false
-  xy: 1084, 760
+  xy: 112, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Satellites
+StatIcons/Faith
   rotate: false
-  xy: 1192, 868
+  xy: 1231, 812
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Scientific Theory
+StatIcons/Food
   rotate: false
-  xy: 436, 4
+  xy: 1771, 812
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Stealth
+StatIcons/Gold
   rotate: false
-  xy: 544, 112
+  xy: 406, 704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Steam Power
+StatIcons/Happiness
   rotate: false
-  xy: 652, 220
+  xy: 622, 704
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/InterceptRange
+  rotate: false
+  xy: 1790, 538
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-TechIcons/Steel
+StatIcons/Malcontent
   rotate: false
-  xy: 760, 328
+  xy: 406, 596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Telecommunications
+StatIcons/Population
   rotate: false
-  xy: 868, 436
+  xy: 544, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Telegraph
+StatIcons/Production
   rotate: false
-  xy: 976, 544
+  xy: 544, 380
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Range
+  rotate: false
+  xy: 1964, 538
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-TechIcons/The Wheel
+StatIcons/RangedStrength
   rotate: false
-  xy: 1084, 652
+  xy: 1408, 156
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+StatIcons/ReligiousStrength
+  rotate: false
+  xy: 544, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Theology
+StatIcons/Resistance
   rotate: false
-  xy: 1192, 760
+  xy: 868, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Trapping
+StatIcons/Science
   rotate: false
-  xy: 1300, 868
+  xy: 976, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Writing
+StatIcons/Specialist
   rotate: false
-  xy: 544, 4
+  xy: 1192, 488
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Strength
+  rotate: false
+  xy: 1466, 156
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
