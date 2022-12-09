@@ -3675,9 +3675,575 @@ UnitPortraits/Jaguar
   orig: 180, 180
   offset: 0, 0
   index: -1
+UnitPortraits/Scout
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 UnitPortraits/Archer
   rotate: false
   xy: 1574, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Slinger
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Spearman
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Hoplite
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Persian Immortal
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Chariot Archer
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/War Chariot
+  rotate: false
+  xy: 1318, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Swordsman
+  rotate: false
+  xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Legion
+  rotate: false
+  xy: 1830, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Maori Warrior
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Horseman
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Companion Cavalry
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/War Elephant
+  rotate: false
+  xy: 806, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Catapult
+  rotate: false
+  xy: 1318, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Hwach'a
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Galley
+  rotate: false
+  xy: 1830, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Trireme
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Brute
+  rotate: false
+  xy: 294, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Knight
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Mandekalu Cavalry
+  rotate: false
+  xy: 806, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Camel Archer
+  rotate: false
+  xy: 1062, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Naresuan's Elephant
+  rotate: false
+  xy: 1318, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Crossbowman
+  rotate: false
+  xy: 1574, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Longbowman
+  rotate: false
+  xy: 1830, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Chu-Ko-Nu
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Pikeman
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Landsknecht
+  rotate: false
+  xy: 550, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Tercio
+  rotate: false
+  xy: 806, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Longswordsman
+  rotate: false
+  xy: 1062, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Samurai
+  rotate: false
+  xy: 1318, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Musketman
+  rotate: false
+  xy: 1574, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Minuteman
+  rotate: false
+  xy: 1830, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Musketeer
+  rotate: false
+  xy: 38, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Janissary
+  rotate: false
+  xy: 294, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Trebuchet
+  rotate: false
+  xy: 550, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Caravel
+  rotate: false
+  xy: 806, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+game6.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Cannon
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Lancer
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Conquistador
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Sipahi
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Rifleman
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Cavalry
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Cossack
+  rotate: false
+  xy: 1574, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Frigate
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Ship of the Line
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Ironclad
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Infantry
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Artillery
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Tank
+  rotate: false
+  xy: 1318, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Paratrooper
+  rotate: false
+  xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Anti-Tank Gun
+  rotate: false
+  xy: 1830, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Anti-Aircraft Gun
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fighter
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Bomber
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Destroyer
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Battleship
+  rotate: false
+  xy: 1318, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Submarine
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Carrier
+  rotate: false
+  xy: 1830, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Atomic Bomb
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Rocket Artillery
+  rotate: false
+  xy: 294, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Mechanized Infantry
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Modern Armor
+  rotate: false
+  xy: 806, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Helicopter Gunship
+  rotate: false
+  xy: 1062, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Mobile SAM
+  rotate: false
+  xy: 1318, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Guided Missile
+  rotate: false
+  xy: 1574, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Jet Fighter
+  rotate: false
+  xy: 1830, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Stealth Bomber
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Missile Cruiser
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Nuclear Submarine
+  rotate: false
+  xy: 550, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Nuclear Missile
+  rotate: false
+  xy: 806, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Giant Death Robot
+  rotate: false
+  xy: 1062, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Foreign Legion
+  rotate: false
+  xy: 1574, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Panzer
+  rotate: false
+  xy: 1830, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Zero
+  rotate: false
+  xy: 38, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/B17
+  rotate: false
+  xy: 550, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Great Scientist
+  rotate: false
+  xy: 1318, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Great Merchant
+  rotate: false
+  xy: 1574, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Great Engineer
+  rotate: false
+  xy: 1830, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Great General
+  rotate: false
+  xy: 38, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Great Artist
+  rotate: false
+  xy: 294, 1574
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
