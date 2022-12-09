@@ -3642,8 +3642,8 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitPortraits/Warrior
   rotate: false
-  xy: 0, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
+  xy: 128, 128
+  size: 180, 180
+  orig: 180, 180
+  offset: -90, -90
   index: -1
