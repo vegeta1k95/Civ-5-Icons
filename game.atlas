@@ -3640,7 +3640,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitConstructionIcons/Warrior
+UnitPortraits/Warrior
   rotate: false
   xy: 0, 0
   size: 256, 256
