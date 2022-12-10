@@ -1788,9 +1788,9 @@ UnitActionIcons/Swap
   index: -1
 UnitActionIcons/Wait
   rotate: false
-  xy: 12, 81
-  size: 40, 33
-  orig: 40, 33
+  xy: 12, 77
+  size: 40, 40
+  orig: 40, 40
   offset: 0, 0
   index: -1
 UnitActionIcons/Automate
