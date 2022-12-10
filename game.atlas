@@ -1795,16 +1795,16 @@ UnitActionIcons/Wait
   index: -1
 UnitActionIcons/Automate
   rotate: false
-  xy: 384, 0
-  size: 64, 64
-  orig: 64, 64
+  xy: 395, 11
+  size: 42, 42
+  orig: 42, 42
   offset: 0, 0
   index: -1
 UnitActionIcons/Explore
   rotate: false
-  xy: 192, 320
-  size: 64, 64
-  orig: 64, 64
+  xy: 204, 332
+  size: 41, 41
+  orig: 41, 41
   offset: 0, 0
   index: -1
 UnitActionIcons/Promote
@@ -1830,16 +1830,16 @@ UnitActionIcons/SetUp
   index: -1
 UnitActionIcons/FoundCity
   rotate: false
-  xy: 0, 320
-  size: 64, 64
-  orig: 64, 64
+  xy: 10, 329
+  size: 44, 48
+  orig: 44, 48
   offset: 0, 0
   index: -1
 UnitActionIcons/ConstructImprovement
   rotate: false
-  xy: 256, 256
-  size: 64, 64
-  orig: 64, 64
+  xy: 270, 266
+  size: 41, 41
+  orig: 41, 41
   offset: 0, 0
   index: -1
 UnitActionIcons/Repair
@@ -1893,16 +1893,16 @@ UnitActionIcons/AddInCapital
   index: -1
 UnitActionIcons/ShowMore
   rotate: false
-  xy: 725, 125
-  size: 64, 64
-  orig: 64, 64
+  xy: 16, 533
+  size: 34, 24
+  orig: 34, 24
   offset: 0, 0
   index: -1
 UnitActionIcons/HideMore
   rotate: false
-  xy: 825, 125
-  size: 64, 64
-  orig: 64, 64
+  xy: 80, 533
+  size: 34, 24
+  orig: 34, 24
   offset: 0, 0
   index: -1
 UnitActionIcons/StopMove
