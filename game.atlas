@@ -1732,9 +1732,9 @@ UnitActionIcons/DisbandUnit
   index: -1
 UnitActionIcons/Fortify
   rotate: false
-  xy: 80, 12
-  size: 33, 42
-  orig: 33, 42
+  xy: 141, 13
+  size: 40, 40
+  orig: 40, 40
   offset: 0, 0
   index: -1
 UnitActionIcons/Pillage
@@ -1914,9 +1914,9 @@ UnitActionIcons/StopMove
   index: -1
 UnitActionIcons/FortifyUntilHealed
   rotate: false
-  xy: 208, 12
-  size: 32, 41
-  orig: 32, 41
+  xy: 204, 13
+  size: 40, 40
+  orig: 40, 40
   offset: 0, 0
   index: -1
 UnitActionIcons/Upgrade
