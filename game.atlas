@@ -1760,9 +1760,9 @@ UnitActionIcons/RemoveHeresy
   index: -1
 UnitActionIcons/Sleep
   rotate: false
-  xy: 261, 16
-  size: 53, 29
-  orig: 53, 29
+  xy: 261, 3
+  size: 53, 53
+  orig: 53, 53
   offset: 0, 0
   index: -1
 UnitActionIcons/Star
