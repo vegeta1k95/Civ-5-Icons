@@ -2826,3 +2826,18 @@ UnitPortraits/SS Stasis Chamber
   orig: 180, 180
   offset: 0, 0
   index: -1
+
+UISkin.png
+size: 1024, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Skins/Gold/CityPickerTable
+  rotate: false
+  xy: 4, 43
+  size: 52, 50
+  split: 25, 25, 24, 24
+  pad: 12, 12, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
