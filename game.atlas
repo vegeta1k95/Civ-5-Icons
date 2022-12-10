@@ -2832,9 +2832,265 @@ size: 1024, 128
 format: RGBA8888
 filter: Linear, Linear
 repeat: none
+Skins/Gold/AirUnitTable
+  rotate: false
+  xy: 653, 94
+  size: 30, 30
+  split: 14, 14, 14, 14
+  pad: 8, 8, 8, 8
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/CityButtonBG
+  rotate: false
+  xy: 266, 74
+  size: 52, 50
+  split: 25, 25, 24, 24
+  pad: 12, 12, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/Gold/CityInfoTable
+  rotate: false
+  xy: 691, 94
+  size: 30, 30
+  split: 5, 5, 5, 5
+  pad: 8, 8, 8, 8
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
 Skins/Gold/CityPickerTable
   rotate: false
   xy: 4, 43
+  size: 52, 50
+  split: 25, 25, 24, 24
+  pad: 12, 12, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/Gold/InfluenceBar
+  rotate: false
+  xy: 186, 4
+  size: 14, 14
+  split: 6, 6, 6, 6
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Skins/Gold/MenuButton
+  rotate: false
+  xy: 326, 74
+  size: 52, 50
+  split: 25, 25, 24, 24
+  pad: 12, 12, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/Gold/MinimapBackground
+  rotate: false
+  xy: 160, 26
+  size: 98, 98
+  split: 0, 0, 0, 0
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+Skins/Gold/MinimapBorder
+  rotate: false
+  xy: 353, 54
+  size: 12, 12
+  split: 5, 5, 5, 5
+  pad: 2, 2, 2, 2
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Skins/Gold/TechButton
+  rotate: false
+  xy: 64, 43
+  size: 52, 50
+  split: 25, 25, 24, 24
+  pad: 12, 12, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/Gold/TradesOverviewTab_OffersTable
+  rotate: false
+  xy: 4, 4
+  size: 98, 14
+  split: 48, 48, 5, 5
+  pad: 0, 0, 5, 5
+  orig: 98, 14
+  offset: 0, 0
+  index: -1
+Skins/Gold/UnitTable
+  rotate: false
+  xy: 4, 27
+  size: 8, 8
+  split: 0, 6, 6, 0
+  pad: 0, 5, 5, 0
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Skins/Gold/border_bg
+  rotate: false
+  xy: 729, 94
+  size: 30, 30
+  split: 5, 5, 5, 5
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/border_bg_bottom
+  rotate: false
+  xy: 110, 4
+  size: 30, 14
+  split: 5, 5, 0, 5
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+Skins/Gold/border_bg_top
+  rotate: false
+  xy: 148, 4
+  size: 30, 14
+  split: 5, 5, 5, 0
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+Skins/Gold/border_bg_tr90
+  rotate: false
+  xy: 767, 94
+  size: 30, 30
+  split: 5, 5, 5, 5
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/border_bg_tr90_bottom
+  rotate: false
+  xy: 805, 109
+  size: 30, 15
+  split: 5, 5, 0, 5
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+Skins/Gold/border_bg_tr90_top
+  rotate: false
+  xy: 843, 109
+  size: 30, 15
+  split: 5, 5, 5, 0
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+Skins/Gold/border_tr50
+  rotate: false
+  xy: 881, 94
+  size: 30, 30
+  split: 5, 5, 5, 5
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/checkbox
+  rotate: false
+  xy: 614, 93
+  size: 31, 31
+  split: 0, 0, 0, 0
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Skins/Gold/checkbox-pressed
+  rotate: false
+  xy: 314, 35
+  size: 31, 31
+  split: 0, 0, 0, 0
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Skins/Gold/rectangleWithOutline
+  rotate: false
+  xy: 124, 90
+  size: 3, 3
+  split: 0, 0, 0, 0
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+Skins/Gold/roundedEdgeRectangle
+  rotate: false
+  xy: 386, 72
+  size: 52, 52
+  split: 10, 10, 10, 10
+  pad: 13, 13, 7, 7
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Skins/Gold/rounded_border_bg_b
+  rotate: false
+  xy: 919, 94
+  size: 30, 30
+  split: 6, 6, 6, 6
+  pad: 5, 5, 5, 5
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/rounded_border_bg_c
+  rotate: false
+  xy: 957, 94
+  size: 30, 30
+  split: 14, 14, 14, 14
+  pad: 5, 5, 5, 5
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/rounded_border_tr50
+  rotate: false
+  xy: 446, 74
+  size: 52, 50
+  split: 25, 25, 24, 24
+  pad: 12, 12, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/Gold/rounded_border_tr50_b
+  rotate: false
+  xy: 566, 56
+  size: 30, 30
+  split: 6, 6, 6, 6
+  pad: 5, 5, 5, 5
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/rounded_border_tr90_b
+  rotate: false
+  xy: 604, 55
+  size: 30, 30
+  split: 6, 6, 6, 6
+  pad: 5, 5, 5, 5
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/select-box
+  rotate: false
+  xy: 566, 94
+  size: 40, 30
+  split: 7, 9, 7, 7
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/select-box-pressed
+  rotate: false
+  xy: 266, 36
+  size: 40, 30
+  split: 7, 9, 7, 7
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Skins/Gold/selected_entry
+  rotate: false
+  xy: 4, 101
+  size: 148, 23
+  split: 3, 3, 3, 3
+  pad: 0, 0, 0, 0
+  orig: 148, 23
+  offset: 0, 0
+  index: -1
+Skins/Gold/tooltip
+  rotate: false
+  xy: 506, 74
   size: 52, 50
   split: 25, 25, 24, 24
   pad: 12, 12, 7, 7
