@@ -2798,9 +2798,30 @@ UnitPortraits/Turtle Ship
   orig: 180, 180
   offset: 0, 0
   index: -1
-UnitPortraits/Khan
+UnitPortraits/SS Booster
   rotate: false
   xy: 38, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/SS Cockpit
+  rotate: false
+  xy: 294, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/SS Engine
+  rotate: false
+  xy: 550, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/SS Stasis Chamber
+  rotate: false
+  xy: 806, 1318
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
