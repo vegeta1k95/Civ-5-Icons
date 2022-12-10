@@ -1732,9 +1732,9 @@ UnitActionIcons/DisbandUnit
   index: -1
 UnitActionIcons/Fortify
   rotate: false
-  xy: 128, 0
-  size: 64, 64
-  orig: 64, 64
+  xy: 80, 12
+  size: 33, 42
+  orig: 33, 42
   offset: 0, 0
   index: -1
 UnitActionIcons/Pillage
