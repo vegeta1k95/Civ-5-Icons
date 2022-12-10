@@ -2037,7 +2037,7 @@ UnitPortraits/Legion
   orig: 180, 180
   offset: 0, 0
   index: -1
-UnitPortraits/Maori Warrior
+UnitPortraits/Mohawk Warrior
   rotate: false
   xy: 38, 550
   size: 180, 180
@@ -2065,6 +2065,13 @@ UnitPortraits/War Elephant
   orig: 180, 180
   offset: 0, 0
   index: -1
+UnitPortraits/Skirmisher
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 UnitPortraits/Catapult
   rotate: false
   xy: 1318, 550
@@ -2072,7 +2079,7 @@ UnitPortraits/Catapult
   orig: 180, 180
   offset: 0, 0
   index: -1
-UnitPortraits/Hwach'a
+UnitPortraits/Ballista
   rotate: false
   xy: 1574, 550
   size: 180, 180
@@ -2222,6 +2229,13 @@ UnitPortraits/Trebuchet
 UnitPortraits/Caravel
   rotate: false
   xy: 806, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Marauder
+  rotate: false
+  xy: 294, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
@@ -2595,6 +2609,13 @@ UnitPortraits/Hakkapeliitta
   orig: 180, 180
   offset: 0, 0
   index: -1
+UnitPortraits/Maori Warrior
+  rotate: false
+  xy: 1830, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 UnitPortraits/Horse Archer
   rotate: false
   xy: 38, 294
@@ -2640,6 +2661,13 @@ UnitPortraits/Sea Beggar
 UnitPortraits/Composite Bowman
   rotate: false
   xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Bowman
+  rotate: false
+  xy: 1830, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
@@ -2724,6 +2752,55 @@ UnitPortraits/Great War Infantry
 UnitPortraits/Gatling Gun
   rotate: false
   xy: 1574, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Berserker
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Norwegian Ski Infantry
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Keshik
+  rotate: false
+  xy: 550, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Khan
+  rotate: false
+  xy: 806, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Hwach'a
+  rotate: false
+  xy: 1062, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Turtle Ship
+  rotate: false
+  xy: 1318, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Khan
+  rotate: false
+  xy: 38, 1318
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
