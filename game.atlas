@@ -3369,7 +3369,7 @@ BuildingPortraits/The Pyramids
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Great Library
+BuildingPortraits/The Great Library
   rotate: false
   xy: 294, 38
   size: 180, 180
@@ -3397,14 +3397,14 @@ BuildingPortraits/Colossus
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Great Lighthouse
+BuildingPortraits/The Great Lighthouse
   rotate: false
   xy: 1318, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Oracle
+BuildingPortraits/The Oracle
   rotate: false
   xy: 1574, 38
   size: 180, 180
@@ -3509,7 +3509,7 @@ BuildingPortraits/Brandenburg Gate
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Louvre
+BuildingPortraits/The Louvre
   rotate: false
   xy: 1318, 550
   size: 180, 180
@@ -3551,6 +3551,20 @@ BuildingPortraits/Sydney Opera House
   orig: 180, 180
   offset: 0, 0
   index: -1
+BuildingPortraits/Circus Maximus
+  rotate: false
+  xy: 1062, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/National Treasury
+  rotate: false
+  xy: 1318, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 BuildingPortraits/Heroic Epic
   rotate: false
   xy: 1830, 806
@@ -3561,6 +3575,13 @@ BuildingPortraits/Heroic Epic
 BuildingPortraits/National Epic
   rotate: false
   xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Grand Temple
+  rotate: false
+  xy: 294, 1062
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
