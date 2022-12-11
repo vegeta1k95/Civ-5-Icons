@@ -2860,7 +2860,7 @@ BuildingPortraits/Factory
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Barracs
+BuildingPortraits/Barracks
   rotate: false
   xy: 1318, 38
   size: 180, 180
@@ -3217,7 +3217,7 @@ BuildingPortraits/Paper Maker
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Mud Pyradim Mosque
+BuildingPortraits/Mud Pyramid Mosque
   rotate: false
   xy: 1062, 1830
   size: 180, 180
@@ -3239,3 +3239,92 @@ BuildingPortraits/Courthouse
   offset: 0, 0
   index: -1
 
+BuildingPortraits2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingPortraits/Amphitheater
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Bomb Shelter
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Cathedral
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Ceilidh Hall
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Coffee House
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mosque
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pagoda
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pyramid
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Recycling Center
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Shrine
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Police Station
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Constabulary
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
