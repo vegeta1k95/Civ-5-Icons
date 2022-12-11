@@ -3356,3 +3356,324 @@ BuildingPortraits/Stone Works
   orig: 180, 180
   offset: 0, 0
   index: -1
+
+BuildingPortraits3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingPortraits/The Pyramids
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Library
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Stonehenge
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hanging Gardens
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Colossus
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Lighthouse
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Oracle
+  rotate: false
+  xy: 1574, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Wall
+  rotate: false
+  xy: 1830, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hagia Sophia
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Angkor Wat
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Notre Dame
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Machu Picchu
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Chichen Itza
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Kremlin
+  rotate: false
+  xy: 1318, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Forbidden Palace
+  rotate: false
+  xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Himeji Castle
+  rotate: false
+  xy: 1830, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Porcelain Tower
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sistine Chapel
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Taj Mahal
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Big Ben
+  rotate: false
+  xy: 806, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Brandenburg Gate
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Louvre
+  rotate: false
+  xy: 1318, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Eiffel Tower
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Statue of Liberty
+  rotate: false
+  xy: 1830, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Cristo Redentor
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/United Nations
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sydney Opera House
+  rotate: false
+  xy: 806, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Heroic Epic
+  rotate: false
+  xy: 1830, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/National Epic
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Manhattan Project
+  rotate: false
+  xy: 550, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Apollo Program
+  rotate: false
+  xy: 806, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Utopia Project
+  rotate: false
+  xy: 1062, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Oxford University
+  rotate: false
+  xy: 1318, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pentagon
+  rotate: false
+  xy: 1574, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Alhambra
+  rotate: false
+  xy: 38, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/CN Tower
+  rotate: false
+  xy: 294, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Mosque of Djenne
+  rotate: false
+  xy: 550, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hubble Space Telescope
+  rotate: false
+  xy: 806, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Leaning Tower of Pisa
+  rotate: false
+  xy: 1062, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Temple of Artemis
+  rotate: false
+  xy: 1318, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mausoleum of Halicarnassus
+  rotate: false
+  xy: 1574, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Neuschwanstein
+  rotate: false
+  xy: 38, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Petra
+  rotate: false
+  xy: 294, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Terracotta Army
+  rotate: false
+  xy: 550, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Statue of Zeus
+  rotate: false
+  xy: 1318, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
