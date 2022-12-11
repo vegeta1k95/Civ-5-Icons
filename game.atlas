@@ -3888,7 +3888,7 @@ UnitIcons/Galley
   index: -1
 UnitIcons/Trireme
   rotate: false
-  xy: 259 35
+  xy: 259, 35
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
