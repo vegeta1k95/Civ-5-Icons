@@ -1870,6 +1870,13 @@ UnitActionIcons/HurryConstruction
   orig: 56, 47
   offset: 0, 0
   index: -1
+UnitActionIcons/ConductTradeMission
+  rotate: false
+  xy: 268, 391
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
 UnitActionIcons/FoundReligion
   rotate: false
   xy: 401, 458
