@@ -2832,7 +2832,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Granary
+BuildingPortraits/Granary
   rotate: false
   xy: 38, 38
   size: 180, 180
