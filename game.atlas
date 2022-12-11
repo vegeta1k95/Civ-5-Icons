@@ -622,9 +622,9 @@ OtherIcons/Settings
   index: -1
 OtherIcons/Shield
   rotate: false
-  xy: 1124, 511
-  size: 50, 50
-  orig: 50, 50
+  xy: 1131, 514
+  size: 36, 44
+  orig: 36, 44
   offset: 0, 0
   index: -1
 OtherIcons/Sleep
