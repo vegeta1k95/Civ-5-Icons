@@ -3321,13 +3321,6 @@ BuildingPortraits/Shrine
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Stele
-  rotate: false
-  xy: 38, 550
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
 BuildingPortraits/Police Station
   rotate: false
   xy: 294, 550
