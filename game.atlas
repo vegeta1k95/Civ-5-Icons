@@ -3279,3 +3279,24 @@ BuildingPortraits/Coffee House
   orig: 180, 180
   offset: 0, 0
   index: -1
+BuildingPortraits/Walls of Babylon
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mosque
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pagoda
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
