@@ -41,7 +41,7 @@ CityStateIcons/Religious
   index: -1
 EmojiIcons/Culture
   rotate: false
-  xy: 1408, 214
+  xy: 1407, 211
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -83,9 +83,9 @@ EmojiIcons/Production
   index: -1
 EmojiIcons/Science
   rotate: false
-  xy: 1466, 214
-  size: 50, 50
-  orig: 50, 50
+  xy: 1470, 214
+  size: 43, 43
+  orig: 43, 43
   offset: 0, 0
   index: -1
 EmojiIcons/Turn
