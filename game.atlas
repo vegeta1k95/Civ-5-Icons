@@ -718,6 +718,13 @@ OtherIcons/Terrains
   orig: 50, 50
   offset: 0, 0
   index: -1
+OtherIcons/Unique
+  rotate: false
+  xy: 1848, 356
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
 OtherIcons/Timer
   rotate: false
   xy: 1408, 488
