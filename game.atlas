@@ -1167,7 +1167,7 @@ StatIcons/Strength
   offset: 0, 0
   index: -1
 
-socialpolicies2048.png
+Policies.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -1382,7 +1382,7 @@ PolicyIcons/Communism
   orig: 170, 170
   offset: 0, 0
   index: -1
-PolicyIcons/Philanthropy
+PolicyIcons/Philantropy
   rotate: false
   xy: 1323, 1067
   size: 170, 170
@@ -1424,7 +1424,7 @@ PolicyIcons/Organized Religion
   orig: 170, 170
   offset: 0, 0
   index: -1
-PolicyIcons/Mandate of Heaven
+PolicyIcons/Mandate Of Heaven
   rotate: false
   xy: 1067, 1323
   size: 170, 170
