@@ -4792,413 +4792,413 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TechIcons/Agriculture
+TechPortraits/Agriculture
   rotate: false
   xy: 32, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Mining
+TechPortraits/Mining
   rotate: false
   xy: 288, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Animal Husbandry
+TechPortraits/Animal Husbandry
   rotate: false
   xy: 544, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/The Wheel
+TechPortraits/The Wheel
   rotate: false
   xy: 800, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Pottery
+TechPortraits/Pottery
   rotate: false
   xy: 1056, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Bronze Working
+TechPortraits/Bronze Working
   rotate: false
   xy: 1312, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Masonry
+TechPortraits/Masonry
   rotate: false
   xy: 1568, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Archery
+TechPortraits/Archery
   rotate: false
   xy: 1824, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Writing
+TechPortraits/Writing
   rotate: false
   xy: 32, 294
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Calendar
+TechPortraits/Calendar
   rotate: false
   xy: 288, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Iron Working
+TechPortraits/Iron Working
   rotate: false
   xy: 544, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Horseback Riding
+TechPortraits/Horseback Riding
   rotate: false
   xy: 800, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Mathematics
+TechPortraits/Mathematics
   rotate: false
   xy: 1056, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Sailing
+TechPortraits/Sailing
   rotate: false
   xy: 1312, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Metal Casting
+TechPortraits/Metal Casting
   rotate: false
   xy: 1568, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Construction
+TechPortraits/Construction
   rotate: false
   xy: 1824, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Philosophy
+TechPortraits/Philosophy
   rotate: false
   xy: 32, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Currency
+TechPortraits/Currency
   rotate: false
   xy: 288, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Optics
+TechPortraits/Optics
   rotate: false
   xy: 544, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Machinery
+TechPortraits/Machinery
   rotate: false
   xy: 800, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Theology
+TechPortraits/Theology
   rotate: false
   xy: 1312, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Civil Service
+TechPortraits/Civil Service
   rotate: false
   xy: 1568, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Compass
+TechPortraits/Compass
   rotate: false
   xy: 1824, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Physics
+TechPortraits/Physics
   rotate: false
   xy: 32, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Education
+TechPortraits/Education
   rotate: false
   xy: 288, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Chivalry
+TechPortraits/Chivalry
   rotate: false
   xy: 800, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Steel
+TechPortraits/Steel
   rotate: false
   xy: 1054, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Navigation
+TechPortraits/Navigation
   rotate: false
   xy: 1312, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Printing Press
+TechPortraits/Printing Press
   rotate: false
   xy: 1568, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Banking
+TechPortraits/Banking
   rotate: false
   xy: 1824, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Gunpowder
+TechPortraits/Gunpowder
   rotate: false
   xy: 32, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Metallurgy
+TechPortraits/Metallurgy
   rotate: false
   xy: 288, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Astronomy
+TechPortraits/Astronomy
   rotate: false
   xy: 544, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Economics
+TechPortraits/Economics
   rotate: false
   xy: 800, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Military Science
+TechPortraits/Military Science
   rotate: false
   xy: 1056, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Chemistry
+TechPortraits/Chemistry
   rotate: false
   xy: 1312, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Biology
+TechPortraits/Biology
   rotate: false
   xy: 1568, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Scientific Theory
+TechPortraits/Scientific Theory
   rotate: false
   xy: 1824, 1058
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Rifling
+TechPortraits/Rifling
   rotate: false
   xy: 32, 1314
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Fertilizer
+TechPortraits/Fertilizer
   rotate: false
   xy: 288, 1314
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Steam Power
+TechPortraits/Steam Power
   rotate: false
   xy: 544, 1314
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Archaeology
+TechPortraits/Archaeology
   rotate: false
   xy: 800, 1314
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Dynamite
+TechPortraits/Dynamite
   rotate: false
   xy: 1056, 1314
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Railroads
+TechPortraits/Railroads
   rotate: false
   xy: 1312, 1314
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Electricity
+TechPortraits/Electricity
   rotate: false
   xy: 1568, 1314
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Combustion
+TechPortraits/Combustion
   rotate: false
   xy: 32, 1570
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Replaceable Parts
+TechPortraits/Replaceable Parts
   rotate: false
   xy: 288, 1570
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Refrigeration
+TechPortraits/Refrigeration
   rotate: false
   xy: 544, 1570
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Telegraph
+TechPortraits/Telegraph
   rotate: false
   xy: 800, 1570
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Atomic Theory
+TechPortraits/Atomic Theory
   rotate: false
   xy: 1056, 1570
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Flight
+TechPortraits/Flight
   rotate: false
   xy: 1312, 1570
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Radio
+TechPortraits/Radio
   rotate: false
   xy: 1824, 1570
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Nuclear Fission
+TechPortraits/Nuclear Fission
   rotate: false
   xy: 32, 1826
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Radar
+TechPortraits/Radar
   rotate: false
   xy: 288, 1826
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Plastics
+TechPortraits/Plastics
   rotate: false
   xy: 544, 1826
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Mass Media
+TechPortraits/Mass Media
   rotate: false
   xy: 800, 1826
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Electronics
+TechPortraits/Electronics
   rotate: false
   xy: 1056, 1826
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Rocketry
+TechPortraits/Rocketry
   rotate: false
   xy: 1312, 1826
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Lasers
+TechPortraits/Lasers
   rotate: false
   xy: 1568, 1826
   size: 190, 190
@@ -5211,175 +5211,175 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TechIcons/Ecology
+TechPortraits/Ecology
   rotate: false
   xy: 32, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Computers
+TechPortraits/Computers
   rotate: false
   xy: 288, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Satellites
+TechPortraits/Satellites
   rotate: false
   xy: 544, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Stealth
+TechPortraits/Stealth
   rotate: false
   xy: 800, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Globalization
+TechPortraits/Globalization
   rotate: false
   xy: 1056, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Robotics
+TechPortraits/Robotics
   rotate: false
   xy: 1312, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Engineering
+TechPortraits/Engineering
   rotate: false
   xy: 1568, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Particle Physics
+TechPortraits/Particle Physics
   rotate: false
   xy: 1824, 34
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Nanotechnology
+TechPortraits/Nanotechnology
   rotate: false
   xy: 32, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Nuclear Fusion
+TechPortraits/Nuclear Fusion
   rotate: false
   xy: 288, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Future Tech
+TechPortraits/Future Tech
   rotate: false
   xy: 544, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Advanced Ballistics
+TechPortraits/Advanced Ballistics
   rotate: false
   xy: 800, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Pharmaceuticals
+TechPortraits/Pharmaceuticals
   rotate: false
   xy: 1056, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Trapping
+TechPortraits/Trapping
   rotate: false
   xy: 1312, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Acoustics
+TechPortraits/Acoustics
   rotate: false
   xy: 1568, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Internet
+TechPortraits/Internet
   rotate: false
   xy: 1824, 290
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Architecture
+TechPortraits/Architecture
   rotate: false
   xy: 32, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Ballistics
+TechPortraits/Ballistics
   rotate: false
   xy: 288, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Guilds
+TechPortraits/Guilds
   rotate: false
   xy: 544, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Combined Arms
+TechPortraits/Combined Arms
   rotate: false
   xy: 800, 546
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Drama and Poetry
+TechPortraits/Drama and Poetry
   rotate: false
   xy: 32, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Industrialization
+TechPortraits/Industrialization
   rotate: false
   xy: 288, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Mobile Tactics
+TechPortraits/Mobile Tactics
   rotate: false
   xy: 544, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechIcons/Telecommunications
+TechPortraits/Telecommunications
   rotate: false
   xy: 800, 802
   size: 190, 190
   orig: 190, 190
   offset: 0, 0
   index: -1
-TechPortrait/Background
+TechPortraits/Background
   rotate: false
   xy: 1058, 549
   size: 188, 188
