@@ -4794,44 +4794,44 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TechIcons/Agriculture
   rotate: false
-  xy: 38, 38
-  size: 180, 180
-  orig: 180, 180
+  xy: 24, 27
+  size: 208, 208
+  orig: 208, 208
   offset: 0, 0
   index: -1
 TechIcons/Mining
   rotate: false
-  xy: 294, 38
-  size: 180, 180
-  orig: 180, 180
+  xy: 280, 27
+  size: 208, 208
+  orig: 208, 208
   offset: 0, 0
   index: -1
 TechIcons/Animal Husbandry
   rotate: false
-  xy: 550, 38
-  size: 180, 180
-  orig: 180, 180
+  xy: 536, 27
+  size: 208, 208
+  orig: 208, 208
   offset: 0, 0
   index: -1
 TechIcons/The Wheel
   rotate: false
-  xy: 806, 38
-  size: 180, 180
-  orig: 180, 180
+  xy: 792, 27
+  size: 208, 208
+  orig: 208, 208
   offset: 0, 0
   index: -1
 TechIcons/Pottery
   rotate: false
-  xy: 1062, 38
-  size: 180, 180
-  orig: 180, 180
+  xy: 1057, 35
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
 TechIcons/Bronze Working
   rotate: false
-  xy: 1318, 38
-  size: 180, 180
-  orig: 180, 180
+  xy: 1313, 35
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
 TechIcons/Masonry
