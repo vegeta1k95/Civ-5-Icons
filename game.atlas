@@ -795,251 +795,6 @@ OtherIcons/ConvertNothing
   orig: 140, 140
   offset: 0, 0
   index: -1
-ResourceIcons/Aluminum
-  rotate: false
-  xy: 583, 920
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Bananas
-  rotate: false
-  xy: 691, 920
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Cattle
-  rotate: false
-  xy: 907, 920
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Citrus
-  rotate: false
-  xy: 1339, 920
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Coal
-  rotate: false
-  xy: 1879, 920
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Copper
-  rotate: false
-  xy: 190, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Cotton
-  rotate: false
-  xy: 112, 486
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Crab
-  rotate: false
-  xy: 112, 378
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Deer
-  rotate: false
-  xy: 583, 812
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Dyes
-  rotate: false
-  xy: 1015, 812
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Fish
-  rotate: false
-  xy: 1555, 812
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Furs
-  rotate: false
-  xy: 298, 734
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Gems
-  rotate: false
-  xy: 298, 626
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Gold Ore
-  rotate: false
-  xy: 514, 704
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Horses
-  rotate: false
-  xy: 838, 704
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Incense
-  rotate: false
-  xy: 946, 704
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Iron
-  rotate: false
-  xy: 1054, 704
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Ivory
-  rotate: false
-  xy: 1162, 704
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Jewelry
-  rotate: false
-  xy: 1270, 704
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Marble
-  rotate: false
-  xy: 730, 596
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Oil
-  rotate: false
-  xy: 1918, 596
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Pearls
-  rotate: false
-  xy: 220, 164
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Porcelain
-  rotate: false
-  xy: 328, 164
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Salt
-  rotate: false
-  xy: 868, 380
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Sheep
-  rotate: false
-  xy: 976, 380
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Silk
-  rotate: false
-  xy: 760, 56
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Silver
-  rotate: false
-  xy: 868, 164
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Spices
-  rotate: false
-  xy: 868, 56
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Stone
-  rotate: false
-  xy: 1300, 488
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Sugar
-  rotate: false
-  xy: 1084, 164
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Truffles
-  rotate: false
-  xy: 1192, 170
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Uranium
-  rotate: false
-  xy: 1516, 488
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Whales
-  rotate: false
-  xy: 1300, 164
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Wheat
-  rotate: false
-  xy: 1408, 272
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Wine
-  rotate: false
-  xy: 1516, 380
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 StatIcons/Acquire
   rotate: false
   xy: 475, 920
@@ -4778,5 +4533,249 @@ UnitFlagIcons/UnitFlagSelectionEmbark
   xy: 890, 0
   size: 178, 210
   orig: 178, 210
+  offset: 0, 0
+  index: -1
+
+Resources1.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/Iron
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Horses
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coal
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Oil
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Aluminum
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Uranium
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Wheat
+  rotate: false
+  xy: 1574, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cattle
+  rotate: false
+  xy: 1830, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Deer
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Fish
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Whales
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bananas
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Gold Ore
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Gems
+  rotate: false
+  xy: 1318, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Marble
+  rotate: false
+  xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ivory
+  rotate: false
+  xy: 1830, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Dyes
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Spices
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Silk
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sugar
+  rotate: false
+  xy: 806, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cotton
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pearls
+  rotate: false
+  xy: 1318, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Incense
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Wine
+  rotate: false
+  xy: 1830, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Silver
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Furs
+  rotate: false
+  xy: 294, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sheep
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Citrus
+  rotate: false
+  xy: 806, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Copper
+  rotate: false
+  xy: 1062, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Crab
+  rotate: false
+  xy: 1318, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Jewelry
+  rotate: false
+  xy: 1574, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Porcelain
+  rotate: false
+  xy: 806, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Salt
+  rotate: false
+  xy: 1062, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ResourceIcons/Truffles
+  rotate: false
+  xy: 1318, 1062
+  size: 180, 180
+  orig: 180, 180
   offset: 0, 0
   index: -1
