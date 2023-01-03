@@ -5379,3 +5379,10 @@ TechIcons/Telecommunications
   orig: 190, 190
   offset: 0, 0
   index: -1
+TechPortrait/Background
+  rotate: false
+  xy: 1058, 549
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
