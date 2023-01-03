@@ -4758,6 +4758,13 @@ ResourceIcons/Jewelry
   orig: 180, 180
   offset: 0, 0
   index: -1
+ResourceIcons/Stone
+  rotate: false
+  xy: 1830, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 ResourceIcons/Porcelain
   rotate: false
   xy: 806, 1062
