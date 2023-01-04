@@ -5386,3 +5386,30 @@ TechPortraits/Telecommunications
   orig: 180, 180
   offset: 0, 0
   index: -1
+
+Promotions.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionIcons/Accuracy I
+  rotate: false
+  xy: 11, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Accuracy II
+  rotate: false
+  xy: 75, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Accuracy III
+  rotate: false
+  xy: 139, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
