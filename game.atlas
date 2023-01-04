@@ -5448,6 +5448,13 @@ UnitPromotionIcons/Amphibious
   orig: 40, 40
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Landing Party
+  rotate: false
+  xy: 331, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Barrage I
   rotate: false
   xy: 395, 11
@@ -5673,6 +5680,13 @@ UnitPromotionIcons/Mobility II
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Extended Range
+  rotate: false
+  xy: 139, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Operational Range
   rotate: false
   xy: 139, 267
   size: 40, 40
@@ -6071,6 +6085,13 @@ UnitPromotionIcons/Great Generals II
   orig: 40, 40
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Haka War Dance
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Hakkapeliitta ability
   rotate: false
   xy: 459, 459
@@ -6120,7 +6141,7 @@ UnitPromotionIcons/Norwegian Ski Infantry ability
   orig: 40, 40
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Persion Immortal ability
+UnitPromotionIcons/Persian Immortal ability
   rotate: false
   xy: 459, 459
   size: 40, 40
@@ -6170,6 +6191,13 @@ UnitPromotionIcons/Slinger Withdraw
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Zero ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Morale
   rotate: false
   xy: 459, 459
   size: 40, 40
