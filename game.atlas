@@ -5413,3 +5413,766 @@ UnitPromotionIcons/Accuracy III
   orig: 40, 40
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Ambush I
+  rotate: false
+  xy: 203, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Anti-Armor I
+  rotate: false
+  xy: 203, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ambush II
+  rotate: false
+  xy: 267, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Anti-Armor II
+  rotate: false
+  xy: 267, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Amphibious
+  rotate: false
+  xy: 331, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Barrage I
+  rotate: false
+  xy: 395, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Barrage II
+  rotate: false
+  xy: 459, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Barrage III
+  rotate: false
+  xy: 11, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Blitz
+  rotate: false
+  xy: 75, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Bombardment I
+  rotate: false
+  xy: 139, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Bombardment II
+  rotate: false
+  xy: 203, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Bombardment III
+  rotate: false
+  xy: 267, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Charge
+  rotate: false
+  xy: 331, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Cover I
+  rotate: false
+  xy: 395, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Cover II
+  rotate: false
+  xy: 459, 75
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dogfighting I
+  rotate: false
+  xy: 11, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dogfighting II
+  rotate: false
+  xy: 75, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dogfighting III
+  rotate: false
+  xy: 139, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Drill I
+  rotate: false
+  xy: 203, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Drill II
+  rotate: false
+  xy: 267, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Drill III
+  rotate: false
+  xy: 331, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Embarkation
+  rotate: false
+  xy: 395, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Conquistador ability
+  rotate: false
+  xy: 395, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Evasion
+  rotate: false
+  xy: 459, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Formation I
+  rotate: false
+  xy: 11, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Formation II
+  rotate: false
+  xy: 75, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Heal Instantly
+  rotate: false
+  xy: 139, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Interception I
+  rotate: false
+  xy: 203, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Interception II
+  rotate: false
+  xy: 267, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Interception III
+  rotate: false
+  xy: 331, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Logistics
+  rotate: false
+  xy: 395, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/March
+  rotate: false
+  xy: 459, 203
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Medic
+  rotate: false
+  xy: 11, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Medic II
+  rotate: false
+  xy: 11, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mobility
+  rotate: false
+  xy: 75, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mobility I
+  rotate: false
+  xy: 75, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mobility II
+  rotate: false
+  xy: 75, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Extended Range
+  rotate: false
+  xy: 139, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Indirect Fire
+  rotate: false
+  xy: 203, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Air Repair
+  rotate: false
+  xy: 267, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Scouting I
+  rotate: false
+  xy: 331, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Scouting II
+  rotate: false
+  xy: 395, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Scouting III
+  rotate: false
+  xy: 459, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Besiege
+  rotate: false
+  xy: 11, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Siege I
+  rotate: false
+  xy: 11, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Siege II
+  rotate: false
+  xy: 75, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Siege III
+  rotate: false
+  xy: 139, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sentry
+  rotate: false
+  xy: 203, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Shock I
+  rotate: false
+  xy: 267, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Shock II
+  rotate: false
+  xy: 331, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Shock III
+  rotate: false
+  xy: 395, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sortie
+  rotate: false
+  xy: 459, 331
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Supply
+  rotate: false
+  xy: 11, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Survivalism I
+  rotate: false
+  xy: 75, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Survivalism II
+  rotate: false
+  xy: 139, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Survivalism III
+  rotate: false
+  xy: 203, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Targeting I
+  rotate: false
+  xy: 267, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Air Targeting I
+  rotate: false
+  xy: 267, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Targeting II
+  rotate: false
+  xy: 331, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Air Targeting II
+  rotate: false
+  xy: 331, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Targeting III
+  rotate: false
+  xy: 395, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Volley
+  rotate: false
+  xy: 459, 395
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Woodsman
+  rotate: false
+  xy: 11, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Coastal Raider I
+  rotate: false
+  xy: 75, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Coastal Raider II
+  rotate: false
+  xy: 139, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Coastal Raider III
+  rotate: false
+  xy: 203, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Boarding Party I
+  rotate: false
+  xy: 267, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Boarding Party II
+  rotate: false
+  xy: 331, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Boarding Party III
+  rotate: false
+  xy: 395, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Altitude Training
+  rotate: false
+  xy: 11, 523
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Desert Warrior
+  rotate: false
+  xy: 75, 523
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Golden Age from Victories
+  rotate: false
+  xy: 139, 523
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Native Tongue
+  rotate: false
+  xy: 203, 523
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Heavy Charge
+  rotate: false
+  xy: 267, 523
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Lightning Warfare
+  rotate: false
+  xy: 331, 523
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sapper
+  rotate: false
+  xy: 395, 523
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Skyranger
+  rotate: false
+  xy: 11, 587
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Trade Mission Bonus
+  rotate: false
+  xy: 75, 587
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Spear Throw
+  rotate: false
+  xy: 139, 587
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Home Sweet Home
+  rotate: false
+  xy: 203, 587
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Exotic Cargo
+  rotate: false
+  xy: 267, 587
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Armor Plating I
+  rotate: false
+  xy: 331, 587
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Armor Plating II
+  rotate: false
+  xy: 395, 587
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Armor Plating III
+  rotate: false
+  xy: 11, 651
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Flight Deck I
+  rotate: false
+  xy: 75, 651
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Flight Deck II
+  rotate: false
+  xy: 139, 651
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Flight Deck III
+  rotate: false
+  xy: 203, 651
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wolfpack I
+  rotate: false
+  xy: 267, 651
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wolfpack II
+  rotate: false
+  xy: 331, 651
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wolfpack III
+  rotate: false
+  xy: 395, 651
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Chu-Ko-Nu ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Cossack ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Great Generals I
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Great Generals II
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hakkapeliitta ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hussar ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ignore terrain cost
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Jaguar ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Janissary ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mohawk Warrior ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Norwegian Ski Infantry ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Persion Immortal ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pictish Courage
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Quick Study
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Jaguar ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Rejuvenation
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sipahi ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Slinger Withdraw
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Zero ability
+  rotate: false
+  xy: 459, 459
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
