@@ -76,7 +76,7 @@ EmojiIcons/Great Scientist
   index: -1
 EmojiIcons/Great Merchant
   rotate: false
-  xy: 500, 1349
+  xy: 500, 0
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
