@@ -4541,6 +4541,13 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+ResourcePortraits/Background
+  rotate: false
+  xy: 37, 1060
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
 ResourcePortraits/Iron
   rotate: false
   xy: 38, 38
