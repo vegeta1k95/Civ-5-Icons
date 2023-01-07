@@ -7,85 +7,85 @@ repeat: none
 EmojiIcons/Science
   rotate: false
   xy: 0, 0
-  size: 176, 176
-  orig: 176, 176
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Gold
   rotate: false
-  xy: 176, 0
-  size: 176, 176
-  orig: 176, 176
+  xy: 50, 0
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Production
   rotate: false
-  xy: 352, 0
-  size: 176, 176
-  orig: 176, 176
+  xy: 100, 0
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Food
   rotate: false
-  xy: 528, 0
-  size: 176, 176
-  orig: 176, 176
+  xy: 150, 0
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Culture
   rotate: false
-  xy: 704, 0
-  size: 176, 176
-  orig: 176, 176
+  xy: 200, 0
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Happiness
   rotate: false
-  xy: 880, 0
-  size: 176, 176
-  orig: 176, 176
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Engineer
-  rotate: false
-  xy: 1056, 0
-  size: 176, 176
-  orig: 176, 176
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great General
-  rotate: false
-  xy: 1232, 0
-  size: 176, 176
-  orig: 176, 176
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Scientist
-  rotate: false
-  xy: 1408, 0
-  size: 176, 176
-  orig: 176, 176
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Merchant
-  rotate: false
-  xy: 1584, 1349
-  size: 176, 176
-  orig: 176, 176
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Artist
-  rotate: false
-  xy: 1760, 0
-  size: 176, 176
-  orig: 176, 176
+  xy: 250, 0
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Faith
   rotate: false
-  xy: 0, 176
-  size: 176, 176
-  orig: 176, 176
+  xy: 300, 176
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Great Engineer
+  rotate: false
+  xy: 350, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Great General
+  rotate: false
+  xy: 400, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Great Scientist
+  rotate: false
+  xy: 450, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Great Merchant
+  rotate: false
+  xy: 500, 1349
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Great Artist
+  rotate: false
+  xy: 550, 0
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 CityStateIcons/Cultured
