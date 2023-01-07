@@ -6,37 +6,37 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 CityStateIcons/Cultured
   rotate: false
-  xy: 112, 54
-  size: 100, 100
-  orig: 100, 100
+  xy: 28, 1052
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 CityStateIcons/Maritime
   rotate: false
-  xy: 838, 596
-  size: 100, 100
-  orig: 100, 100
+  xy: 284, 1052
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 CityStateIcons/Mercantile
   rotate: false
-  xy: 1054, 596
-  size: 100, 100
-  orig: 100, 100
+  xy: 540, 1052
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 CityStateIcons/Militaristic
   rotate: false
-  xy: 1162, 596
-  size: 100, 100
-  orig: 100, 100
+  xy: 796, 1052
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 CityStateIcons/Religious
   rotate: false
-  xy: 436, 56
-  size: 100, 100
-  orig: 100, 100
+  xy: 1052, 1052
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 EmojiIcons/Culture
