@@ -4541,245 +4541,245 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ResourceIcons/Iron
+ResourcePortraits/Iron
   rotate: false
   xy: 38, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Horses
+ResourcePortraits/Horses
   rotate: false
   xy: 294, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Coal
+ResourcePortraits/Coal
   rotate: false
   xy: 550, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Oil
+ResourcePortraits/Oil
   rotate: false
   xy: 806, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Aluminum
+ResourcePortraits/Aluminum
   rotate: false
   xy: 1062, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Uranium
+ResourcePortraits/Uranium
   rotate: false
   xy: 1318, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Wheat
+ResourcePortraits/Wheat
   rotate: false
   xy: 1574, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Cattle
+ResourcePortraits/Cattle
   rotate: false
   xy: 1830, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Deer
+ResourcePortraits/Deer
   rotate: false
   xy: 38, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Fish
+ResourcePortraits/Fish
   rotate: false
   xy: 294, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Whales
+ResourcePortraits/Whales
   rotate: false
   xy: 550, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Bananas
+ResourcePortraits/Bananas
   rotate: false
   xy: 806, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Gold Ore
+ResourcePortraits/Gold Ore
   rotate: false
   xy: 1062, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Gems
+ResourcePortraits/Gems
   rotate: false
   xy: 1318, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Marble
+ResourcePortraits/Marble
   rotate: false
   xy: 1574, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Ivory
+ResourcePortraits/Ivory
   rotate: false
   xy: 1830, 294
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Dyes
+ResourcePortraits/Dyes
   rotate: false
   xy: 38, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Spices
+ResourcePortraits/Spices
   rotate: false
   xy: 294, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Silk
+ResourcePortraits/Silk
   rotate: false
   xy: 550, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Sugar
+ResourcePortraits/Sugar
   rotate: false
   xy: 806, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Cotton
+ResourcePortraits/Cotton
   rotate: false
   xy: 1062, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Pearls
+ResourcePortraits/Pearls
   rotate: false
   xy: 1318, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Incense
+ResourcePortraits/Incense
   rotate: false
   xy: 1574, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Wine
+ResourcePortraits/Wine
   rotate: false
   xy: 1830, 550
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Silver
+ResourcePortraits/Silver
   rotate: false
   xy: 38, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Furs
+ResourcePortraits/Furs
   rotate: false
   xy: 294, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Sheep
+ResourcePortraits/Sheep
   rotate: false
   xy: 550, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Citrus
+ResourcePortraits/Citrus
   rotate: false
   xy: 806, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Copper
+ResourcePortraits/Copper
   rotate: false
   xy: 1062, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Crab
+ResourcePortraits/Crab
   rotate: false
   xy: 1318, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Jewelry
+ResourcePortraits/Jewelry
   rotate: false
   xy: 1574, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Stone
+ResourcePortraits/Stone
   rotate: false
   xy: 1830, 806
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Porcelain
+ResourcePortraits/Porcelain
   rotate: false
   xy: 806, 1062
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Salt
+ResourcePortraits/Salt
   rotate: false
   xy: 1062, 1062
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-ResourceIcons/Truffles
+ResourcePortraits/Truffles
   rotate: false
   xy: 1318, 1062
   size: 180, 180
