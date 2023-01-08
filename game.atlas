@@ -242,6 +242,13 @@ OtherIcons/Lock
   orig: 212, 212
   offset: 0, 0
   index: -1
+OtherIcons/CrosshairB
+  rotate: false
+  xy: 1600, 97
+  size: 300, 306
+  orig: 300, 306
+  offset: 0, 0
+  index: -1
 CityStateIcons/Cultured
   rotate: false
   xy: 28, 1052
