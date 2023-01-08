@@ -214,6 +214,13 @@ OtherIcons/ConvertGold
   orig: 174, 174
   offset: 0, 0
   index: -1
+OtherIcons/LockSmall
+  rotate: false
+  xy: 1238, 104
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 StatIcons/Population
   rotate: false
   xy: 65, 458
