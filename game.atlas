@@ -158,6 +158,41 @@ StatIcons/Happiness
   orig: 150, 150
   offset: 0, 0
   index: -1
+StatIcons/Resistance
+  rotate: false
+  xy: 5, 244
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+StatIcons/CityConnection
+  rotate: false
+  xy: 193, 245
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+OtherIcons/Puppet
+  rotate: false
+  xy: 362, 240
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+OtherIcons/Capital
+  rotate: false
+  xy: 548, 238
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+OtherIcons/Fire
+  rotate: false
+  xy: 730, 238
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
 CityStateIcons/Cultured
   rotate: false
   xy: 28, 1052
