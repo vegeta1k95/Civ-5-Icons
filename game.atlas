@@ -88,6 +88,48 @@ EmojiIcons/Great Artist
   orig: 50, 50
   offset: 0, 0
   index: -1
+StatIcons/Science
+  rotate: false
+  xy: 0, 50
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+StatIcons/Gold
+  rotate: false
+  xy: 176, 50
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+StatIcons/Production
+  rotate: false
+  xy: 352, 50
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+StatIcons/Food
+  rotate: false
+  xy: 528, 50
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+StatIcons/Culture
+  rotate: false
+  xy: 704, 50
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+StatIcons/Faith
+  rotate: false
+  xy: 880, 50
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
 CityStateIcons/Cultured
   rotate: false
   xy: 28, 1052
