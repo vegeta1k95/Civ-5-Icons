@@ -97,9 +97,9 @@ StatIcons/Science
   index: -1
 StatIcons/Gold
   rotate: false
-  xy: 176, 50
-  size: 176, 176
-  orig: 176, 176
+  xy: 193, 62
+  size: 144, 144
+  orig: 144, 144
   offset: 0, 0
   index: -1
 StatIcons/Production
@@ -111,23 +111,23 @@ StatIcons/Production
   index: -1
 StatIcons/Food
   rotate: false
-  xy: 528, 50
-  size: 176, 176
-  orig: 176, 176
+  xy: 543, 62
+  size: 144, 144
+  orig: 144, 144
   offset: 0, 0
   index: -1
 StatIcons/Culture
   rotate: false
-  xy: 704, 50
-  size: 176, 176
-  orig: 176, 176
+  xy: 716, 60
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
 StatIcons/Faith
   rotate: false
-  xy: 880, 50
-  size: 176, 176
-  orig: 176, 176
+  xy: 894, 60
+  size: 148, 148
+  orig: 148, 148
   offset: 0, 0
   index: -1
 CityStateIcons/Cultured
