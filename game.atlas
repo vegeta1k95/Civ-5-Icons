@@ -1170,6 +1170,13 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
+ImprovementPortraits/Repair
+rotate: false
+  xy: 1051, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
 UnitActionPortraits/Pillage
 rotate: false
   xy: 1307, 1051
@@ -1191,6 +1198,13 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
+UnitActionPortraits/Cancel improvement order
+rotate: false
+  xy: 1819, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
 UnitActionPortraits/Enter
 rotate: false
   xy: 27, 1307
@@ -1206,6 +1220,13 @@ rotate: false
   offset: 0,0
   index: -1
 ImprovementPortraits/Remove Road
+rotate: false
+  xy: 539, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Remove Railroad
 rotate: false
   xy: 539, 1307
   size: 200, 200
@@ -1324,9 +1345,23 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
-UnitActionPortraits/Remove Fallout
+ImprovementPortraits/Remove Fallout
 rotate: false
   xy: 795, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Polder
+rotate: false
+  xy: 1051, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Holy site
+rotate: false
+  xy: 1307, 1819
   size: 200, 200
   orig: 200, 200
   offset: 0,0
@@ -1341,6 +1376,33 @@ rotate: false
 ImprovementPortraits/Background
 rotate: false
   xy: 1819, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+
+Improvements2.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitActionPortraits/FoundReligion
+rotate: false
+  xy: 27, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/RemoveHeresy
+rotate: false
+  xy: 283, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/EnhanceReligion
+rotate: false
+  xy: 27, 283
   size: 200, 200
   orig: 200, 200
   offset: 0,0
