@@ -904,217 +904,217 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitActionIcons/AirSweep
+UnitActionPortraits/AirSweep
   rotate: false
   xy: 394, 330
   size: 45, 45
   orig: 45, 45
   offset: 0, 0
   index: -1
-UnitActionIcons/DisbandUnit
+UnitActionPortraits/DisbandUnit
   rotate: false
   xy: 200, 72
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
-UnitActionIcons/Fortify
+UnitActionPortraits/Fortify
   rotate: false
   xy: 141, 13
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-UnitActionIcons/Pillage
+UnitActionPortraits/Pillage
   rotate: false
   xy: 331, 269
   size: 42, 39
   orig: 42, 39
   offset: 0, 0
   index: -1
-UnitActionIcons/Present
+UnitActionPortraits/Present
   rotate: false
   xy: 461, 13
   size: 36, 44
   orig: 36, 44
   offset: 0, 0
   index: -1
-UnitActionIcons/RemoveHeresy
+UnitActionPortraits/RemoveHeresy
   rotate: false
   xy: 453, 470
   size: 54, 33
   orig: 54, 33
   offset: 0, 0
   index: -1
-UnitActionIcons/Sleep
+UnitActionPortraits/Sleep
   rotate: false
   xy: 261, 3
   size: 53, 53
   orig: 53, 53
   offset: 0, 0
   index: -1
-UnitActionIcons/Star
+UnitActionPortraits/Star
   rotate: false
   xy: 320, 320
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-UnitActionIcons/Stop
+UnitActionPortraits/Stop
   rotate: false
   xy: 8, 8
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
-UnitActionIcons/Swap
+UnitActionPortraits/Swap
   rotate: false
   xy: 138, 77
   size: 44, 39
   orig: 44, 39
   offset: 0, 0
   index: -1
-UnitActionIcons/Wait
+UnitActionPortraits/Wait
   rotate: false
   xy: 12, 77
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-UnitActionIcons/Automate
+UnitActionPortraits/Automate
   rotate: false
   xy: 395, 11
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
-UnitActionIcons/Explore
+UnitActionPortraits/Explore
   rotate: false
   xy: 204, 332
   size: 41, 41
   orig: 41, 41
   offset: 0, 0
   index: -1
-UnitActionIcons/Promote
+UnitActionPortraits/Promote
   rotate: false
   xy: 847, 142
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
-UnitActionIcons/Paradrop
+UnitActionPortraits/Paradrop
   rotate: false
   xy: 16, 391
   size: 38, 50
   orig: 38, 50
   offset: 0, 0
   index: -1
-UnitActionIcons/SetUp
+UnitActionPortraits/SetUp
   rotate: false
   xy: 268, 76
   size: 37, 39
   orig: 37, 39
   offset: 0, 0
   index: -1
-UnitActionIcons/FoundCity
+UnitActionPortraits/FoundCity
   rotate: false
   xy: 10, 329
   size: 44, 48
   orig: 44, 48
   offset: 0, 0
   index: -1
-UnitActionIcons/ConstructImprovement
+UnitActionPortraits/ConstructImprovement
   rotate: false
   xy: 270, 266
   size: 41, 41
   orig: 41, 41
   offset: 0, 0
   index: -1
-UnitActionIcons/Repair
+UnitActionPortraits/Repair
   rotate: false
   xy: 272, 267
   size: 37, 39
   orig: 37, 37
   offset: 0, 0
   index: -1
-UnitActionIcons/HurryResearch
+UnitActionPortraits/HurryResearch
   rotate: false
   xy: 145, 394
   size: 31, 44
   orig: 31, 44
   offset: 0, 0
   index: -1
-UnitActionIcons/StartGoldenAge
+UnitActionPortraits/StartGoldenAge
   rotate: false
   xy: 331, 331
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
-UnitActionIcons/HurryConstruction
+UnitActionPortraits/HurryConstruction
   rotate: false
   xy: 451, 393
   size: 56, 47
   orig: 56, 47
   offset: 0, 0
   index: -1
-UnitActionIcons/ConductTradeMission
+UnitActionPortraits/ConductTradeMission
   rotate: false
   xy: 268, 391
   size: 42, 48
   orig: 42, 48
   offset: 0, 0
   index: -1
-UnitActionIcons/FoundReligion
+UnitActionPortraits/FoundReligion
   rotate: false
   xy: 401, 458
   size: 31, 48
   orig: 31, 48
   offset: 0, 0
   index: -1
-UnitActionIcons/EnhanceReligion
+UnitActionPortraits/EnhanceReligion
   rotate: false
   xy: 268, 458
   size: 45, 47
   orig: 45, 47
   offset: 0, 0
   index: -1
-UnitActionIcons/AddInCapital
+UnitActionPortraits/AddInCapital
   rotate: false
   xy: 84, 390
   size: 26, 52
   orig: 26, 52
   offset: 0, 0
   index: -1
-UnitActionIcons/ShowMore
+UnitActionPortraits/ShowMore
   rotate: false
   xy: 16, 533
   size: 34, 24
   orig: 34, 24
   offset: 0, 0
   index: -1
-UnitActionIcons/HideMore
+UnitActionPortraits/HideMore
   rotate: false
   xy: 80, 533
   size: 34, 24
   orig: 34, 24
   offset: 0, 0
   index: -1
-UnitActionIcons/StopMove
+UnitActionPortraits/StopMove
   rotate: false
   xy: 8, 8
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
-UnitActionIcons/FortifyUntilHealed
+UnitActionPortraits/FortifyUntilHealed
   rotate: false
   xy: 204, 13
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-UnitActionIcons/Upgrade
+UnitActionPortraits/Upgrade
   rotate: false
   xy: 268, 326
   size: 41, 46
