@@ -3858,8 +3858,8 @@ repeat: none
 ResourcePortraits/Background
   rotate: false
   xy: 37, 1060
-  size: 191, 191
-  orig: 191, 191
+  size: 190, 190
+  orig: 190, 190
   offset: 0, 0
   index: -1
 ResourcePortraits/Iron
