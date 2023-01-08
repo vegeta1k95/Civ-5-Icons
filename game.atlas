@@ -899,234 +899,437 @@ NationIcons/The Ottomans
   offset: 0, 0
   index: -1
 
-UnitActions.png
+Improvements.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitActionPortraits/Background
-  rotate: false
-  xy: 129, 613
-  size: 45, 45
-  orig: 45, 45
-  offset: 0, 0
+UnitActionPortraits/Stop
+rotate: false
+  xy: 27, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
   index: -1
-UnitActionPortraits/AirSweep
-  rotate: false
-  xy: 394, 330
-  size: 45, 45
-  orig: 45, 45
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/DisbandUnit
-  rotate: false
-  xy: 200, 72
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
+UnitActionPortraits/Defend
+rotate: false
+  xy: 283, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
   index: -1
 UnitActionPortraits/Fortify
-  rotate: false
-  xy: 141, 13
-  size: 40, 40
-  orig: 40, 40
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Pillage
-  rotate: false
-  xy: 331, 269
-  size: 42, 39
-  orig: 42, 39
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Present
-  rotate: false
-  xy: 461, 13
-  size: 36, 44
-  orig: 36, 44
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/RemoveHeresy
-  rotate: false
-  xy: 453, 470
-  size: 54, 33
-  orig: 54, 33
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Sleep
-  rotate: false
-  xy: 261, 3
-  size: 53, 53
-  orig: 53, 53
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Star
-  rotate: false
-  xy: 320, 320
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Stop
-  rotate: false
-  xy: 8, 8
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Swap
-  rotate: false
-  xy: 138, 77
-  size: 44, 39
-  orig: 44, 39
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Wait
-  rotate: false
-  xy: 12, 77
-  size: 40, 40
-  orig: 40, 40
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Automate
-  rotate: false
-  xy: 395, 11
-  size: 42, 42
-  orig: 42, 42
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Explore
-  rotate: false
-  xy: 204, 332
-  size: 41, 41
-  orig: 41, 41
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Promote
-  rotate: false
-  xy: 847, 142
-  size: 32, 37
-  orig: 32, 37
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Paradrop
-  rotate: false
-  xy: 16, 391
-  size: 38, 50
-  orig: 38, 50
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/SetUp
-  rotate: false
-  xy: 268, 76
-  size: 37, 39
-  orig: 37, 39
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/FoundCity
-  rotate: false
-  xy: 10, 329
-  size: 44, 48
-  orig: 44, 48
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/ConstructImprovement
-  rotate: false
-  xy: 270, 266
-  size: 41, 41
-  orig: 41, 41
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Repair
-  rotate: false
-  xy: 272, 267
-  size: 37, 39
-  orig: 37, 37
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/HurryResearch
-  rotate: false
-  xy: 145, 394
-  size: 31, 44
-  orig: 31, 44
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/StartGoldenAge
-  rotate: false
-  xy: 331, 331
-  size: 42, 42
-  orig: 42, 42
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/HurryConstruction
-  rotate: false
-  xy: 451, 393
-  size: 56, 47
-  orig: 56, 47
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/ConductTradeMission
-  rotate: false
-  xy: 268, 391
-  size: 42, 48
-  orig: 42, 48
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/FoundReligion
-  rotate: false
-  xy: 401, 458
-  size: 31, 48
-  orig: 31, 48
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/EnhanceReligion
-  rotate: false
-  xy: 268, 458
-  size: 45, 47
-  orig: 45, 47
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/AddInCapital
-  rotate: false
-  xy: 84, 390
-  size: 26, 52
-  orig: 26, 52
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/ShowMore
-  rotate: false
-  xy: 16, 533
-  size: 34, 24
-  orig: 34, 24
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/HideMore
-  rotate: false
-  xy: 80, 533
-  size: 34, 24
-  orig: 34, 24
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/StopMove
-  rotate: false
-  xy: 8, 8
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
+rotate: false
+  xy: 539, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
   index: -1
 UnitActionPortraits/FortifyUntilHealed
-  rotate: false
-  xy: 204, 13
-  size: 40, 40
-  orig: 40, 40
-  offset: 0, 0
+rotate: false
+  xy: 795, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Sleep
+rotate: false
+  xy: 1051, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/WakeUp
+rotate: false
+  xy: 1307, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Automate
+rotate: false
+  xy: 1563, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Present
+rotate: false
+  xy: 1819, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Wait
+rotate: false
+  xy: 27, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Move
+rotate: false
+  xy: 283, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Swap
+rotate: false
+  xy: 539, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/DisbandUnit
+rotate: false
+  xy: 795, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/SetUp
+rotate: false
+  xy: 1051, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/RangeAttack
+rotate: false
+  xy: 1307, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Embark
+rotate: false
+  xy: 1563, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Disembark
+rotate: false
+  xy: 1819, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Transport
+rotate: false
+  xy: 27, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Nuke
+rotate: false
+  xy: 283, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Swap
+rotate: false
+  xy: 539, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Attack
+rotate: false
+  xy: 795, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Rebase
+rotate: false
+  xy: 1051, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Farm
+rotate: false
+  xy: 1307, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Mine
+rotate: false
+  xy: 1563, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Academy
+rotate: false
+  xy: 1819, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Road
+rotate: false
+  xy: 27, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Railroad
+rotate: false
+  xy: 283, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Quarry
+rotate: false
+  xy: 539, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Plantation
+rotate: false
+  xy: 795, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Lumber mill
+rotate: false
+  xy: 1051, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Pasture
+rotate: false
+  xy: 1307, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Fort
+rotate: false
+  xy: 1563, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Remove Forest
+rotate: false
+  xy: 1819, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Remove Jungle
+rotate: false
+  xy: 1819, 795
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Camp
+rotate: false
+  xy: 27, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Oil well
+rotate: false
+  xy: 283, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Offshore Platform
+rotate: false
+  xy: 539, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Fishing Boats
+rotate: false
+  xy: 795, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Repair
+rotate: false
+  xy: 1051, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Pillage
+rotate: false
+  xy: 1307, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Remove Marsh
+rotate: false
+  xy: 1563, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/StopMove
+rotate: false
+  xy: 1819, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Enter
+rotate: false
+  xy: 27, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Trading post
+rotate: false
+  xy: 283, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Remove Road
+rotate: false
+  xy: 539, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Explore
+rotate: false
+  xy: 795, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
   index: -1
 UnitActionPortraits/Upgrade
-  rotate: false
-  xy: 268, 326
-  size: 41, 46
-  orig: 41, 46
-  offset: 0, 0
+rotate: false
+  xy: 1051, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/StartGoldenAge
+rotate: false
+  xy: 1307, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/AirSweep
+rotate: false
+  xy: 1563, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Intercept
+rotate: false
+  xy: 1819, 1307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Paradrop
+rotate: false
+  xy: 27, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/AddInCapital
+rotate: false
+  xy: 283, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/HurryResearch
+rotate: false
+  xy: 539, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Citadel
+rotate: false
+  xy: 795, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/ConductTradeMission
+rotate: false
+  xy: 1051, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/CultureBomb
+rotate: false
+  xy: 1307, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Landmark
+rotate: false
+  xy: 1563, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/HurryConstruction
+rotate: false
+  xy: 1819, 1563
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Manufactory
+rotate: false
+  xy: 27, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Customs house
+rotate: false
+  xy: 283, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/MakeRoad
+rotate: false
+  xy: 539, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/Remove Fallout
+rotate: false
+  xy: 795, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
   index: -1
 
 UnitPortraits1.png
