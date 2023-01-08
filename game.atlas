@@ -207,6 +207,20 @@ OtherIcons/Fire
   orig: 168, 168
   offset: 0, 0
   index: -1
+OtherIcons/ConvertScience
+  rotate: false
+  xy: 935, 244
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+OtherIcons/ConvertGold
+  rotate: false
+  xy: 1142, 247
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
 StatIcons/Population
   rotate: false
   xy: 65, 458
