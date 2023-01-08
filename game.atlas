@@ -1442,6 +1442,13 @@ rotate: false
   orig: 180, 180
   offset: 0,0
   index: -1
+UnitActionPortraits/FoundCity
+rotate: false
+  xy: 0, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0,0
+  index: -1
 
 UnitPortraits1.png
 size: 2048, 2048
