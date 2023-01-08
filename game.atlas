@@ -277,6 +277,20 @@ CityStateIcons/Religious
   orig: 200, 200
   offset: 0, 0
   index: -1
+UniqueIcons/Fallback
+  rotate: false
+  xy: 1523, 34
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+UniqueIcons/Background
+  rotate: false
+  xy: 1800, 34
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
 
 Policies.png
 size: 2048, 2048
