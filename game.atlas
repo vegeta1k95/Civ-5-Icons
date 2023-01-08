@@ -158,6 +158,13 @@ StatIcons/Happiness
   orig: 150, 150
   offset: 0, 0
   index: -1
+OtherIcons/WLTKD
+  rotate: false
+  xy: 1059, 58
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
 StatIcons/Resistance
   rotate: false
   xy: 5, 244
