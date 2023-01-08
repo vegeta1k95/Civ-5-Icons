@@ -90,9 +90,9 @@ EmojiIcons/Great Artist
   index: -1
 StatIcons/Science
   rotate: false
-  xy: 0, 50
-  size: 176, 176
-  orig: 176, 176
+  xy: 15, 66
+  size: 144, 144
+  orig: 144, 144
   offset: 0, 0
   index: -1
 StatIcons/Gold
@@ -104,9 +104,9 @@ StatIcons/Gold
   index: -1
 StatIcons/Production
   rotate: false
-  xy: 352, 50
-  size: 176, 176
-  orig: 176, 176
+  xy: 369, 66
+  size: 144, 144
+  orig: 144, 144
   offset: 0, 0
   index: -1
 StatIcons/Food
