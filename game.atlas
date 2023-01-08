@@ -4542,9 +4542,9 @@ TechPortraits/Lasers
   index: -1
 TechPortraits/Background
   rotate: false
-  xy: 1824, 1825
-  size: 190, 190
-  orig: 190, 190
+  xy: 1819, 1812
+  size: 206, 206
+  orig: 206, 206
   offset: 0, 0
   index: -1
 
