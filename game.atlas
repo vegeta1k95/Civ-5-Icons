@@ -1449,6 +1449,20 @@ rotate: false
   orig: 256, 256
   offset: 0,0
   index: -1
+UnitActionPortraits/ShowMore
+rotate: false
+  xy: 283, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+UnitActionPortraits/HideMore
+rotate: false
+  xy: 539, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
 
 UnitPortraits1.png
 size: 2048, 2048
