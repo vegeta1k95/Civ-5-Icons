@@ -1198,7 +1198,7 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
-UnitActionPortraits/Cancel improvement order
+ImprovementPortraits/Cancel improvement order
 rotate: false
   xy: 1819, 1051
   size: 200, 200
@@ -1366,6 +1366,13 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
+ImprovementPortraits/Terrace farm
+rotate: false
+  xy: 1563, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
 UnitActionPortraits/Background
 rotate: false
   xy: 1819, 1819
@@ -1403,6 +1410,13 @@ rotate: false
 UnitActionPortraits/EnhanceReligion
 rotate: false
   xy: 27, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Moai
+rotate: false
+  xy: 283, 283
   size: 200, 200
   orig: 200, 200
   offset: 0,0
