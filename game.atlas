@@ -200,6 +200,20 @@ OtherIcons/Fire
   orig: 168, 168
   offset: 0, 0
   index: -1
+StatIcons/Population
+  rotate: false
+  xy: 65, 458
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+OtherIcons/Lock
+  rotate: false
+  xy: 323, 463
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
 CityStateIcons/Cultured
   rotate: false
   xy: 28, 1052
