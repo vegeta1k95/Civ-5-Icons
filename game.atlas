@@ -242,6 +242,13 @@ OtherIcons/Lock
   orig: 212, 212
   offset: 0, 0
   index: -1
+StatIcons/Specialist
+  rotate: false
+  xy: 572, 440
+  size: 354, 344
+  orig: 354, 344
+  offset: 0, 0
+  index: -1
 CityStateIcons/Cultured
   rotate: false
   xy: 28, 1052
