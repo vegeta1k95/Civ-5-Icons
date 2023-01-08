@@ -1421,6 +1421,13 @@ UnitPortraits/Marauder
   orig: 180, 180
   offset: 0, 0
   index: -1
+UnitPortraits/Background
+  rotate: false
+  xy: 1008, 1714
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 
 UnitPortraits2.png
 size: 2048, 2048
@@ -2533,6 +2540,13 @@ BuildingPortraits/Aqueduct
 BuildingPortraits/Stone Works
   rotate: false
   xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Background
+  rotate: false
+  xy: 1500, 1500
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
