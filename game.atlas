@@ -242,7 +242,7 @@ OtherIcons/Lock
   orig: 212, 212
   offset: 0, 0
   index: -1
-OtherIcons/CrosshairB
+TileSets/Minimal/Crosshair
   rotate: false
   xy: 1600, 97
   size: 300, 306
