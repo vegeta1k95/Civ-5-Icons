@@ -109,7 +109,7 @@ StatIcons/Strength
   orig: 50, 50
   offset: 0, 0
   index: -1
-EmojiIcons/Turns
+EmojiIcons/Turn
   rotate: false
   xy: 750, 0
   size: 50, 50
