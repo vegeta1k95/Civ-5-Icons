@@ -130,6 +130,13 @@ StatIcons/Faith
   orig: 148, 148
   offset: 0, 0
   index: -1
+StatIcons/Happiness
+  rotate: false
+  xy: 1059, 58
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
 CityStateIcons/Cultured
   rotate: false
   xy: 28, 1052
