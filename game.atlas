@@ -1407,6 +1407,13 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
+ImprovementPortraits/City ruins
+rotate: false
+  xy: 806, 27
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
 UnitActionPortraits/EnhanceReligion
 rotate: false
   xy: 27, 283
