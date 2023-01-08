@@ -1193,16 +1193,16 @@ rotate: false
   index: -1
 UnitActionPortraits/StopMove
 rotate: false
-  xy: 1819, 1051
-  size: 200, 200
-  orig: 200, 200
+  xy: 1812, 1045
+  size: 216, 216
+  orig: 216, 216
   offset: 0,0
   index: -1
 ImprovementPortraits/Cancel improvement order
-rotate: false
-  xy: 1819, 1051
-  size: 200, 200
-  orig: 200, 200
+  rotate: false
+  xy: 1812, 1045
+  size: 216, 216
+  orig: 216, 216
   offset: 0,0
   index: -1
 UnitActionPortraits/Enter
@@ -1220,13 +1220,6 @@ rotate: false
   offset: 0,0
   index: -1
 ImprovementPortraits/Remove Road
-rotate: false
-  xy: 539, 1307
-  size: 200, 200
-  orig: 200, 200
-  offset: 0,0
-  index: -1
-ImprovementPortraits/Remove Railroad
 rotate: false
   xy: 539, 1307
   size: 200, 200
@@ -1407,6 +1400,13 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
+ImprovementPortraits/Remove Railroad
+rotate: false
+  xy: 539, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
 UnitActionPortraits/EnhanceReligion
 rotate: false
   xy: 27, 283
@@ -1417,6 +1417,13 @@ rotate: false
 ImprovementPortraits/Moai
 rotate: false
   xy: 283, 283
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Ancient ruins
+rotate: false
+  xy: 539, 283
   size: 200, 200
   orig: 200, 200
   offset: 0,0
