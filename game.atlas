@@ -165,6 +165,13 @@ OtherIcons/WLTKD
   orig: 150, 150
   offset: 0, 0
   index: -1
+StatIcons/Malcontent
+  rotate: false
+  xy: 1322, 55
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
 StatIcons/Resistance
   rotate: false
   xy: 5, 244
