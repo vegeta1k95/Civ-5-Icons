@@ -904,6 +904,13 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+UnitActionPortraits/Background
+  rotate: false
+  xy: 129, 613
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
 UnitActionPortraits/AirSweep
   rotate: false
   xy: 394, 330
