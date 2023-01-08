@@ -1331,6 +1331,20 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
+UnitActionPortraits/Background
+rotate: false
+  xy: 1819, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Background
+rotate: false
+  xy: 1819, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
 
 UnitPortraits1.png
 size: 2048, 2048
