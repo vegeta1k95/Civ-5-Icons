@@ -1423,9 +1423,16 @@ rotate: false
   index: -1
 ImprovementPortraits/Ancient ruins
 rotate: false
-  xy: 539, 283
-  size: 200, 200
-  orig: 200, 200
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ImprovementPortraits/Barbarian encampment
+rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
   offset: 0,0
   index: -1
 
