@@ -48,7 +48,7 @@ EmojiIcons/Happiness
   index: -1
 EmojiIcons/Faith
   rotate: false
-  xy: 300, 176
+  xy: 300, 0
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -105,13 +105,6 @@ StatIcons/RangedStrength
 StatIcons/Strength
   rotate: false
   xy: 700, 0
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Turn
-  rotate: false
-  xy: 750, 0
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
