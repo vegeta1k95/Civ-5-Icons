@@ -88,6 +88,27 @@ EmojiIcons/Great Artist
   orig: 50, 50
   offset: 0, 0
   index: -1
+StatIcons/Movement
+  rotate: false
+  xy: 600, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+StatIcons/RangedStrength
+  rotate: false
+  xy: 650, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+StatIcons/Strength
+  rotate: false
+  xy: 700, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 StatIcons/Science
   rotate: false
   xy: 15, 66
