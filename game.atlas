@@ -1170,6 +1170,13 @@ rotate: false
   orig: 200, 200
   offset: 0,0
   index: -1
+UnitActionPortraits/Construct improvement
+rotate: false
+  xy: 1051, 1051
+  size: 200, 200
+  orig: 200, 200
+  offset: 0,0
+  index: -1
 ImprovementPortraits/Repair
 rotate: false
   xy: 1051, 1051
