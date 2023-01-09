@@ -6209,3 +6209,79 @@ NationPortraits/Background
   orig: 180, 180
   offset: 0, 0
   index: -1
+
+PromotionPortraits.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionPortraits/Accuracy I
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Accuracy II
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Accuracy II
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Ambush I
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Anti-Armor I
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Ambush II
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Anti-Armor II
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Amphibious
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Landing Party
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Background
+  rotate: false
+  xy: 1830, 1830
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
