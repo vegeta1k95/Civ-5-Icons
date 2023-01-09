@@ -6921,3 +6921,121 @@ UnitPromotionPortraits/Coastal Raider III
   orig: 180, 180
   offset: 0,0
   index: -1
+
+ReligionPortraits.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionPortraits/Buddhism
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Catholicism
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Confucianism
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Hinduism
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Islam
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Judaism
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Shinto
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Sikhism
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Taoism
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Tengriism
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Zoroastrianism
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Pantheon
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Eastern Orthodoxy
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Christianity
+  rotate: false
+  xy: 806, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Religion
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+ReligionPortraits/Background
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
