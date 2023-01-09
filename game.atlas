@@ -6278,9 +6278,645 @@ UnitPromotionPortraits/Landing Party
   orig: 180, 180
   offset: 0,0
   index: -1
+UnitPromotionPortraits/Barrage I
+  rotate: false
+  xy: 1574, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Barrage II
+  rotate: false
+  xy: 1830, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Barrage III
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Blitz
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Bombardment I
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Bombardment II
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Bombardment III
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Charge
+  rotate: false
+  xy: 1318, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Cover I
+  rotate: false
+  xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Cover II
+  rotate: false
+  xy: 1830, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Dogfighting I
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Dogfighting II
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Dogfighting III
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Drill I
+  rotate: false
+  xy: 806, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Drill II
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Drill III
+  rotate: false
+  xy: 1318, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Embarkation
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Conquistador ability
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Evasion
+  rotate: false
+  xy: 1830, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Formation I
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Formation II
+  rotate: false
+  xy: 294, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Heal Instantly
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Interception I
+  rotate: false
+  xy: 806, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Interception II
+  rotate: false
+  xy: 1062, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Interception III
+  rotate: false
+  xy: 1318, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Logistics
+  rotate: false
+  xy: 1574, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/March
+  rotate: false
+  xy: 1830, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Medic
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Medic I
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Medic II
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Mobility
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Mobility I
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Mobility II
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Extended Range
+  rotate: false
+  xy: 550, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Operational Range
+  rotate: false
+  xy: 550, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Indirect Fire
+  rotate: false
+  xy: 806, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Air Repair
+  rotate: false
+  xy: 1062, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Scouting I
+  rotate: false
+  xy: 1318, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Scouting II
+  rotate: false
+  xy: 1574, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Scouting III
+  rotate: false
+  xy: 1830, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Siege
+  rotate: false
+  xy: 38, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Siege I
+  rotate: false
+  xy: 38, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Besiege
+  rotate: false
+  xy: 38, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Siege II
+  rotate: false
+  xy: 294, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Siege III
+  rotate: false
+  xy: 550, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Sentry
+  rotate: false
+  xy: 806, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Shock I
+  rotate: false
+  xy: 1062, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Shock II
+  rotate: false
+  xy: 1318, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Shock III
+  rotate: false
+  xy: 1574, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Sortie
+  rotate: false
+  xy: 1830, 1318
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Supply
+  rotate: false
+  xy: 38, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Survivalism I
+  rotate: false
+  xy: 294, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Survivalism II
+  rotate: false
+  xy: 550, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Survivalism III
+  rotate: false
+  xy: 806, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Targeting I
+  rotate: false
+  xy: 1062, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Air Targeting I
+  rotate: false
+  xy: 1062, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Targeting II
+  rotate: false
+  xy: 1318, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Air Targeting II
+  rotate: false
+  xy: 1318, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Targeting III
+  rotate: false
+  xy: 1574, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Air Targeting III
+  rotate: false
+  xy: 1574, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Volley
+  rotate: false
+  xy: 1830, 1574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Woodsman
+  rotate: false
+  xy: 38, 1830
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Fallback
+  rotate: false
+  xy: 806, 1830
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
 UnitPromotionPortraits/Background
   rotate: false
   xy: 1830, 1830
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+
+PromotionPortraits2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionPortraits/Altitude Training
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Desert Warrior
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Golden Age from Victories
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Native Tongue
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Heavy Charge
+  rotate: false
+  xy: 1062, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Lightning Warfare
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Sapper
+  rotate: false
+  xy: 1574, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Skyranger
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Trade Mission Bonus
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Spear Throw
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Home Sweet Home
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Exotic Cargo
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Armor Plating I
+  rotate: false
+  xy: 1318, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Armor Plating II
+  rotate: false
+  xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Armor Plating III
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Flight Deck I
+  rotate: false
+  xy: 294, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Flight Deck II
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Flight Deck III
+  rotate: false
+  xy: 806, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Wolfpack I
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Wolfpack II
+  rotate: false
+  xy: 1318, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Wolfpack III
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Boarding Party I
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Boarding Party II
+  rotate: false
+  xy: 294, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Boarding Party III
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Coastal Raider I
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Coastal Raider II
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0,0
+  index: -1
+UnitPromotionPortraits/Coastal Raider III
+  rotate: false
+  xy: 550, 1062
   size: 180, 180
   orig: 180, 180
   offset: 0,0
