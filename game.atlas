@@ -6118,9 +6118,65 @@ NationPortraits/Random
   orig: 180, 180
   offset: 0, 0
   index: -1
-NationPortraits/Background
+NationPortraits/Austria
   rotate: false
   xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Byzantium
+  rotate: false
+  xy: 294, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Carthage
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Celts
+  rotate: false
+  xy: 806, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Ethiopia
+  rotate: false
+  xy: 1062, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/The Huns
+  rotate: false
+  xy: 38, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/The Maya
+  rotate: false
+  xy: 294, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/The Netherlands
+  rotate: false
+  xy: 550, 1062
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Sweden
+  rotate: false
+  xy: 806, 1062
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
