@@ -5944,3 +5944,212 @@ UnitPromotionIcons/Morale
   orig: 40, 40
   offset: 0, 0
   index: -1
+
+Nations.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationPortraits/America
+  rotate: false
+  xy: 38, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Arabia
+  rotate: false
+  xy: 294, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Aztecs
+  rotate: false
+  xy: 550, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Babylon
+  rotate: false
+  xy: 806, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/China
+  rotate: false
+  xy: 1318, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Egypt
+  rotate: false
+  xy: 1574, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/England
+  rotate: false
+  xy: 1830, 38
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/France
+  rotate: false
+  xy: 38, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Germany
+  rotate: false
+  xy: 294, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Greece
+  rotate: false
+  xy: 550, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Inca
+  rotate: false
+  xy: 806, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/India
+  rotate: false
+  xy: 1062, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Iroquois
+  rotate: false
+  xy: 1318, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Japan
+  rotate: false
+  xy: 1574, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Mongolia
+  rotate: false
+  xy: 1830, 294
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/The Ottomans
+  rotate: false
+  xy: 38, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Persia
+  rotate: false
+  xy: 550, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Rome
+  rotate: false
+  xy: 806, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Russia
+  rotate: false
+  xy: 1062, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Siam
+  rotate: false
+  xy: 1318, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Songhai
+  rotate: false
+  xy: 1574, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Spain
+  rotate: false
+  xy: 1830, 550
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/
+  rotate: false
+  xy: 294, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/
+  rotate: false
+  xy: 550, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/
+  rotate: false
+  xy: 1062, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/
+  rotate: false
+  xy: 1318, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/
+  rotate: false
+  xy: 1574, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/
+  rotate: false
+  xy: 1830, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
