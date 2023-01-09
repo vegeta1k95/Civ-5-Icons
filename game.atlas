@@ -6118,3 +6118,10 @@ NationPortraits/Random
   orig: 180, 180
   offset: 0, 0
   index: -1
+NationPortraits/Background
+  rotate: false
+  xy: 38, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
