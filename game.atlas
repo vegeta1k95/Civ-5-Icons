@@ -6153,6 +6153,27 @@ NationPortraits/Ethiopia
   orig: 180, 180
   offset: 0, 0
   index: -1
+NationPortraits/Polynesia
+  rotate: false
+  xy: 1318, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Denmark
+  rotate: false
+  xy: 1574, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Korea
+  rotate: false
+  xy: 1830, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 NationPortraits/The Huns
   rotate: false
   xy: 38, 1062
