@@ -1,2 +1,1 @@
-# Warfare-Expanded-Unciv-Bucketeer
-A massive unit expansion mod for Unciv G&amp;K Ruleset!
+# Unciv Mod which replaces most of the graphical assets of the game to Civ 5 assets 
