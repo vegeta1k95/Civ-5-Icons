@@ -6205,231 +6205,231 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ImprovementPortraits/Academy
   rotate: false
-  xy: 2, 578
+  xy: 656, 1838
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Ancient ruins
   rotate: false
-  xy: 2, 2
+  xy: 1868, 1868
   size: 170, 170
   orig: 170, 170
   offset: 0, 0
   index: -1
 ImprovementPortraits/Background
   rotate: false
-  xy: 204, 982
+  xy: 1060, 1838
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Barbarian encampment
   rotate: false
-  xy: 1868, 1868
+  xy: 2, 2
   size: 170, 170
   orig: 170, 170
   offset: 0, 0
   index: -1
 ImprovementPortraits/Camp
   rotate: false
-  xy: 2, 780
+  xy: 204, 174
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Cancel improvement order
   rotate: false
-  xy: 406, 392
+  xy: 2, 578
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Citadel
   rotate: false
-  xy: 1262, 1838
+  xy: 204, 780
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/City ruins
   rotate: false
-  xy: 220, 1822
+  xy: 2, 1604
   size: 216, 216
   orig: 216, 216
   offset: 0, 0
   index: -1
 ImprovementPortraits/Customs house
   rotate: false
-  xy: 204, 578
+  xy: 2, 376
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Farm
   rotate: false
-  xy: 406, 1200
+  xy: 2, 982
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Fishing Boats
   rotate: false
-  xy: 2, 376
+  xy: 204, 578
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Fort
   rotate: false
-  xy: 438, 1620
+  xy: 204, 1184
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Holy site
   rotate: false
-  xy: 2, 1604
+  xy: 2, 1386
   size: 216, 216
   orig: 216, 216
   offset: 0, 0
   index: -1
 ImprovementPortraits/Landmark
   rotate: false
-  xy: 204, 376
+  xy: 406, 796
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Lumber mill
   rotate: false
-  xy: 2, 174
+  xy: 220, 1402
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Manufactory
   rotate: false
-  xy: 656, 1838
+  xy: 422, 1402
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Mine
   rotate: false
-  xy: 204, 1184
+  xy: 406, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Moai
   rotate: false
-  xy: 2, 1386
+  xy: 438, 1822
   size: 216, 216
   orig: 216, 216
   offset: 0, 0
   index: -1
 ImprovementPortraits/Offshore Platform
   rotate: false
-  xy: 204, 174
+  xy: 406, 1200
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Oil well
   rotate: false
-  xy: 1060, 1838
+  xy: 2, 174
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Pasture
   rotate: false
-  xy: 204, 780
+  xy: 1262, 1838
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Plantation
   rotate: false
-  xy: 406, 998
+  xy: 1666, 1838
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Polder
   rotate: false
-  xy: 438, 1822
+  xy: 220, 1604
   size: 216, 216
   orig: 216, 216
   offset: 0, 0
   index: -1
 ImprovementPortraits/Quarry
   rotate: false
-  xy: 1464, 1838
+  xy: 858, 1838
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Railroad
   rotate: false
-  xy: 406, 796
+  xy: 406, 392
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Remove Fallout
   rotate: false
-  xy: 406, 594
+  xy: 204, 376
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Remove Jungle
   rotate: false
-  xy: 858, 1838
+  xy: 1464, 1838
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Remove Forest
   rotate: false
-  xy: 858, 1838
+  xy: 1464, 1838
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Remove Marsh
   rotate: false
-  xy: 220, 1402
+  xy: 438, 1620
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Remove Raidroad
   rotate: false
-  xy: 220, 1604
+  xy: 220, 1822
   size: 216, 216
   orig: 216, 216
   offset: 0, 0
   index: -1
 ImprovementPortraits/Remove Road
   rotate: false
-  xy: 2, 1184
+  xy: 204, 982
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Repair
   rotate: false
-  xy: 2, 982
+  xy: 406, 998
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementPortraits/Road
   rotate: false
-  xy: 422, 1402
+  xy: 2, 780
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -6443,42 +6443,42 @@ ImprovementPortraits/Terrace farm
   index: -1
 ImprovementPortraits/Trading post
   rotate: false
-  xy: 1666, 1838
+  xy: 2, 1184
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourcePortraits/Aluminum
   rotate: false
-  xy: 1550, 1656
+  xy: 1732, 1292
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Background
   rotate: false
-  xy: 588, 210
+  xy: 1004, 1656
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Bananas
   rotate: false
-  xy: 1186, 1474
+  xy: 406, 28
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Cattle
   rotate: false
-  xy: 1004, 1474
+  xy: 1186, 1292
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Citrus
   rotate: false
-  xy: 608, 730
+  xy: 972, 1110
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
@@ -6492,35 +6492,35 @@ ResourcePortraits/Coal
   index: -1
 ResourcePortraits/Copper
   rotate: false
-  xy: 1368, 1656
+  xy: 608, 548
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Cotton
   rotate: false
-  xy: 608, 548
+  xy: 1154, 1110
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Crab
   rotate: false
-  xy: 1368, 1292
+  xy: 608, 912
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Deer
   rotate: false
-  xy: 790, 548
+  xy: 1550, 1292
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Dyes
   rotate: false
-  xy: 406, 210
+  xy: 640, 1640
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
@@ -6534,35 +6534,35 @@ ResourcePortraits/Fish
   index: -1
 ResourcePortraits/Furs
   rotate: false
-  xy: 588, 28
+  xy: 1186, 1656
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Gems
   rotate: false
-  xy: 1732, 1656
+  xy: 1186, 1474
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Gold Ore
   rotate: false
-  xy: 608, 912
+  xy: 588, 210
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Horses
   rotate: false
-  xy: 822, 1474
+  xy: 1004, 1292
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Incense
   rotate: false
-  xy: 972, 1110
+  xy: 1732, 1656
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
@@ -6576,126 +6576,126 @@ ResourcePortraits/Iron
   index: -1
 ResourcePortraits/Ivory
   rotate: false
-  xy: 790, 1094
+  xy: 822, 1656
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Jewelry
   rotate: false
-  xy: 640, 1640
+  xy: 1732, 1474
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Marble
   rotate: false
-  xy: 790, 912
+  xy: 640, 1458
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Oil
   rotate: false
-  xy: 640, 1458
+  xy: 624, 1276
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Pearls
   rotate: false
-  xy: 608, 1094
+  xy: 790, 912
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Porcelain
   rotate: false
-  xy: 1004, 1656
+  xy: 790, 548
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Salt
   rotate: false
-  xy: 1186, 1656
+  xy: 1004, 1474
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Sheep
   rotate: false
-  xy: 822, 1292
+  xy: 790, 730
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Silk
   rotate: false
-  xy: 406, 28
+  xy: 1368, 1656
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Silver
   rotate: false
-  xy: 624, 1276
+  xy: 790, 1094
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Spices
   rotate: false
-  xy: 1732, 1474
+  xy: 1368, 1292
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Stone
   rotate: false
-  xy: 1732, 1292
+  xy: 588, 28
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Sugar
   rotate: false
-  xy: 1154, 1110
+  xy: 608, 1094
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Truffles
   rotate: false
-  xy: 1004, 1292
+  xy: 608, 730
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Uranium
   rotate: false
-  xy: 1186, 1292
+  xy: 822, 1292
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Whales
   rotate: false
-  xy: 1550, 1292
+  xy: 406, 210
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Wheat
   rotate: false
-  xy: 790, 730
+  xy: 822, 1474
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ResourcePortraits/Wine
   rotate: false
-  xy: 822, 1656
+  xy: 1550, 1656
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
